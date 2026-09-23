@@ -1,0 +1,3273 @@
+{
+  "collection": "CyberMonitor/APT_CyberCriminal_Campagin_Collections",
+  "repository": "https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections",
+  "commit": "cbf136e24f5d2a4d89619580455aae8b9b0aeadb",
+  "commit_date": "2024-07-25T14:28:39Z",
+  "scope": "year folders 2014-2023, report PDFs only; samples, non-PDF files, Report/ and 2024 folders excluded",
+  "selection": "new_candidate: report PDFs that our collection did not already hold by exact file name, URL slug or reliable title (not proof that the report is unique, no content judgement)",
+  "generated_at": "2026-09-18T19:53:35+00:00",
+  "prepared_from": "maintainers' history inventory (kept with the local records, not distributed)",
+  "item_count": 326,
+  "items": [
+    {
+      "path": "2014/2014.08.25.Vietnam_APT/blog.malwaremustdie.org-Another country-sponsored malware Vietnam APT Campaign.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2014/2014.08.25.Vietnam_APT/blog.malwaremustdie.org-Another%20country-sponsored%20malware%20Vietnam%20APT%20Campaign.pdf",
+      "year": "2014",
+      "report_folder": "2014.08.25.Vietnam_APT",
+      "size_bytes": 1671854,
+      "publisher_hint": "blog.malwaremustdie.org",
+      "index_published": "2014-08-25",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2014/2014.09.08.Targeted_Threat_Index/sec14-paper-hardy.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2014/2014.09.08.Targeted_Threat_Index/sec14-paper-hardy.pdf",
+      "year": "2014",
+      "report_folder": "2014.09.08.Targeted_Threat_Index",
+      "size_bytes": 3911665,
+      "publisher_hint": "",
+      "index_published": "2014-09-08",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2014/2014.11.03.Operation_Poisoned_Handover/Operation_Poisoned_Handover.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2014/2014.11.03.Operation_Poisoned_Handover/Operation_Poisoned_Handover.pdf",
+      "year": "2014",
+      "report_folder": "2014.11.03.Operation_Poisoned_Handover",
+      "size_bytes": 176051,
+      "publisher_hint": "",
+      "index_published": "2014-11-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2014/2014.11.14.OnionDuke/OnionDuke_Tor.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2014/2014.11.14.OnionDuke/OnionDuke_Tor.pdf",
+      "year": "2014",
+      "report_folder": "2014.11.14.OnionDuke",
+      "size_bytes": 350752,
+      "publisher_hint": "",
+      "index_published": "2014-11-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2014/2014.12.05.Operation_Cleaver/blogs.blackberry.com-Operation Cleaver The Notepad Files.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2014/2014.12.05.Operation_Cleaver/blogs.blackberry.com-Operation%20Cleaver%20The%20Notepad%20Files.pdf",
+      "year": "2014",
+      "report_folder": "2014.12.05.Operation_Cleaver",
+      "size_bytes": 428746,
+      "publisher_hint": "blogs.blackberry.com",
+      "index_published": "2014-12-05",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.01.22.Waterbug.group/waterbug-attack-group.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.01.22.Waterbug.group/waterbug-attack-group.pdf",
+      "year": "2015",
+      "report_folder": "2015.01.22.Waterbug.group",
+      "size_bytes": 3673337,
+      "publisher_hint": "",
+      "index_published": "2016-01-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.02.02.behind-the-syria-conflict/rpt-behind-the-syria-conflict.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.02.02.behind-the-syria-conflict/rpt-behind-the-syria-conflict.pdf",
+      "year": "2015",
+      "report_folder": "2015.02.02.behind-the-syria-conflict",
+      "size_bytes": 4628230,
+      "publisher_hint": "",
+      "index_published": "2015-02-02",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.02.10.CrowdStrike_GlobalThreatIntelReport_2014/GlobalThreatIntelReport.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.02.10.CrowdStrike_GlobalThreatIntelReport_2014/GlobalThreatIntelReport.pdf",
+      "year": "2015",
+      "report_folder": "2015.02.10.CrowdStrike_GlobalThreatIntelReport_2014",
+      "size_bytes": 2998592,
+      "publisher_hint": "",
+      "index_published": "2015-02-10",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.02.16.Carbanak.APT/Carbanak_APT_eng.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.02.16.Carbanak.APT/Carbanak_APT_eng.pdf",
+      "year": "2015",
+      "report_folder": "2015.02.16.Carbanak.APT",
+      "size_bytes": 3901614,
+      "publisher_hint": "",
+      "index_published": "2015-02-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.02.16.Operation_Arid_Viper/operation-arid-viper-whitepaper-en.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.02.16.Operation_Arid_Viper/operation-arid-viper-whitepaper-en.pdf",
+      "year": "2015",
+      "report_folder": "2015.02.16.Operation_Arid_Viper",
+      "size_bytes": 7627461,
+      "publisher_hint": "",
+      "index_published": "2015-02-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.02.25.PlugX_to_registry/plugx-goes-to-the-registry-and-india.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.02.25.PlugX_to_registry/plugx-goes-to-the-registry-and-india.pdf",
+      "year": "2015",
+      "report_folder": "2015.02.25.PlugX_to_registry",
+      "size_bytes": 3458573,
+      "publisher_hint": "",
+      "index_published": "2015-02-25",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.03.30.Decoding_China_Chopper/2015.03.30.crowdstrike.chopping-packets-decoding-china-chopper-web-shell-traffic-over-ssl.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.03.30.Decoding_China_Chopper/2015.03.30.crowdstrike.chopping-packets-decoding-china-chopper-web-shell-traffic-over-ssl.pdf",
+      "year": "2015",
+      "report_folder": "2015.03.30.Decoding_China_Chopper",
+      "size_bytes": 760759,
+      "publisher_hint": "",
+      "index_published": "2015-03-30",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.04.12.APT30/rpt-apt30.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.04.12.APT30/rpt-apt30.pdf",
+      "year": "2015",
+      "report_folder": "2015.04.12.APT30",
+      "size_bytes": 10458535,
+      "publisher_hint": "",
+      "index_published": "2015-04-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.04.18.Operation_RussianDoll/Operation RussianDoll.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.04.18.Operation_RussianDoll/Operation%20RussianDoll.pdf",
+      "year": "2015",
+      "report_folder": "2015.04.18.Operation_RussianDoll",
+      "size_bytes": 575174,
+      "publisher_hint": "",
+      "index_published": "2015-04-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.04.20.Sofacy_II/cto-tib-20150420-01a.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.04.20.Sofacy_II/cto-tib-20150420-01a.pdf",
+      "year": "2015",
+      "report_folder": "2015.04.20.Sofacy_II",
+      "size_bytes": 221042,
+      "publisher_hint": "",
+      "index_published": "2015-04-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.05.14.Operation_Tropic_Trooper/wp-operation-tropic-trooper.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.05.14.Operation_Tropic_Trooper/wp-operation-tropic-trooper.pdf",
+      "year": "2015",
+      "report_folder": "2015.05.14.Operation_Tropic_Trooper",
+      "size_bytes": 1754682,
+      "publisher_hint": "",
+      "index_published": "2015-05-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.06.04.Blue_Thermite_targeting_Japan/BlueTermite_Japan.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.06.04.Blue_Thermite_targeting_Japan/BlueTermite_Japan.pdf",
+      "year": "2015",
+      "report_folder": "2015.06.04.Blue_Thermite_targeting_Japan",
+      "size_bytes": 2750496,
+      "publisher_hint": "",
+      "index_published": "2015-06-04",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.06.28.APT_on_Taiwan/DTL-06282015-01.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.06.28.APT_on_Taiwan/DTL-06282015-01.pdf",
+      "year": "2015",
+      "report_folder": "2015.06.28.APT_on_Taiwan",
+      "size_bytes": 882759,
+      "publisher_hint": "",
+      "index_published": "2015-06-28",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.07.08.APT_CVE-2015-5119/APT Group Wekby Leveraging Adobe Flash Exploit (CVE-2015-5119) _ Volexity Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.07.08.APT_CVE-2015-5119/APT%20Group%20Wekby%20Leveraging%20Adobe%20Flash%20Exploit%20%28CVE-2015-5119%29%20_%20Volexity%20Blog.pdf",
+      "year": "2015",
+      "report_folder": "2015.07.08.APT_CVE-2015-5119",
+      "size_bytes": 1012705,
+      "publisher_hint": "",
+      "index_published": "2015-07-08",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.07.13.Demonstrating_Hustle/Demonstrating_Hustle.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.07.13.Demonstrating_Hustle/Demonstrating_Hustle.pdf",
+      "year": "2015",
+      "report_folder": "2015.07.13.Demonstrating_Hustle",
+      "size_bytes": 403521,
+      "publisher_hint": "",
+      "index_published": "2015-07-13",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.08.05.Threat_Group-3390/threat-group-3390-targets-organizations-for-cyberespionage.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.08.05.Threat_Group-3390/threat-group-3390-targets-organizations-for-cyberespionage.pdf",
+      "year": "2015",
+      "report_folder": "2015.08.05.Threat_Group-3390",
+      "size_bytes": 640996,
+      "publisher_hint": "",
+      "index_published": "2015-08-05",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.09.17.duke_russian/dukes_whitepaper.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.09.17.duke_russian/dukes_whitepaper.pdf",
+      "year": "2015",
+      "report_folder": "2015.09.17.duke_russian",
+      "size_bytes": 2155459,
+      "publisher_hint": "",
+      "index_published": "2015-09-17",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.11.18.Sakula_Reloaded/sakula-reloaded.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.11.18.Sakula_Reloaded/sakula-reloaded.pdf",
+      "year": "2015",
+      "report_folder": "2015.11.18.Sakula_Reloaded",
+      "size_bytes": 372286,
+      "publisher_hint": "",
+      "index_published": "2015-11-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.11.23.CopyKittens_Attack_Group/CopyKittens.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.11.23.CopyKittens_Attack_Group/CopyKittens.pdf",
+      "year": "2015",
+      "report_folder": "2015.11.23.CopyKittens_Attack_Group",
+      "size_bytes": 2149333,
+      "publisher_hint": "",
+      "index_published": "2015-11-23",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.11.23.PEERING_INTO_GLASSRAT/GlassRAT-final.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.11.23.PEERING_INTO_GLASSRAT/GlassRAT-final.pdf",
+      "year": "2015",
+      "report_folder": "2015.11.23.PEERING_INTO_GLASSRAT",
+      "size_bytes": 544262,
+      "publisher_hint": "",
+      "index_published": "2015-11-23",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.12.04.Sofacy_APT/sofacy-apt-hits-high-profile-targets-with-updated-toolset.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.12.04.Sofacy_APT/sofacy-apt-hits-high-profile-targets-with-updated-toolset.pdf",
+      "year": "2015",
+      "report_folder": "2015.12.04.Sofacy_APT",
+      "size_bytes": 1133978,
+      "publisher_hint": "",
+      "index_published": "2015-12-04",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.12.07.Iran-based/iran-based-attackers-use-back-door-threats-spy-middle-eastern-targets.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.12.07.Iran-based/iran-based-attackers-use-back-door-threats-spy-middle-eastern-targets.pdf",
+      "year": "2015",
+      "report_folder": "2015.12.07.Iran-based",
+      "size_bytes": 235563,
+      "publisher_hint": "",
+      "index_published": "2015-12-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.12.13.ELISE/elise-security-through-obesity.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.12.13.ELISE/elise-security-through-obesity.html.pdf",
+      "year": "2015",
+      "report_folder": "2015.12.13.ELISE",
+      "size_bytes": 893988,
+      "publisher_hint": "",
+      "index_published": "2015-12-13",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.12.16.INOCNATION.Campaign/FTA_1020_Fidelis_Inocnation_FINAL.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.12.16.INOCNATION.Campaign/FTA_1020_Fidelis_Inocnation_FINAL.pdf",
+      "year": "2015",
+      "report_folder": "2015.12.16.INOCNATION.Campaign",
+      "size_bytes": 1563851,
+      "publisher_hint": "",
+      "index_published": "2015-12-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2015/2015.12.17.APT28_Under_The_Scope/Bitdefender_In-depth_analysis_of_APT28__The_Political_Cyber-Espionage.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2015/2015.12.17.APT28_Under_The_Scope/Bitdefender_In-depth_analysis_of_APT28__The_Political_Cyber-Espionage.pdf",
+      "year": "2015",
+      "report_folder": "2015.12.17.APT28_Under_The_Scope",
+      "size_bytes": 1949940,
+      "publisher_hint": "",
+      "index_published": "2015-12-17",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.01.07.rigging-compromise/rigging-compromise.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.01.07.rigging-compromise/rigging-compromise.html.pdf",
+      "year": "2016",
+      "report_folder": "2016.01.07.rigging-compromise",
+      "size_bytes": 1106320,
+      "publisher_hint": "",
+      "index_published": "2016-01-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.01.14.The.Waterbug.Attack.Group/waterbug-attack-group.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.01.14.The.Waterbug.Attack.Group/waterbug-attack-group.pdf",
+      "year": "2016",
+      "report_folder": "2016.01.14.The.Waterbug.Attack.Group",
+      "size_bytes": 3675361,
+      "publisher_hint": "",
+      "index_published": "2016-01-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.01.14_Cisco_Needles_in_a_Haystack/Cisco_haystack.pdf.2016.01.14.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.01.14_Cisco_Needles_in_a_Haystack/Cisco_haystack.pdf.2016.01.14.pdf",
+      "year": "2016",
+      "report_folder": "2016.01.14_Cisco_Needles_in_a_Haystack",
+      "size_bytes": 125087,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.01.19.360_APT_Report/[CN]_2015.APT.Annual_Report.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.01.19.360_APT_Report/%5BCN%5D_2015.APT.Annual_Report.pdf",
+      "year": "2016",
+      "report_folder": "2016.01.19.360_APT_Report",
+      "size_bytes": 2468990,
+      "publisher_hint": "",
+      "index_published": "2016-01-19",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.01.19.360_APT_Report/news_长期窃取我国敏感数据，29个海外黑客组织被曝光_科技_中国网.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.01.19.360_APT_Report/news_%E9%95%BF%E6%9C%9F%E7%AA%83%E5%8F%96%E6%88%91%E5%9B%BD%E6%95%8F%E6%84%9F%E6%95%B0%E6%8D%AE%EF%BC%8C29%E4%B8%AA%E6%B5%B7%E5%A4%96%E9%BB%91%E5%AE%A2%E7%BB%84%E7%BB%87%E8%A2%AB%E6%9B%9D%E5%85%89_%E7%A7%91%E6%8A%80_%E4%B8%AD%E5%9B%BD%E7%BD%91.pdf",
+      "year": "2016",
+      "report_folder": "2016.01.19.360_APT_Report",
+      "size_bytes": 2459584,
+      "publisher_hint": "",
+      "index_published": "2016-01-19",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.01.24_Scarlet_Minic/scarlet-mimic-years-long-espionage-targets-minority-activists.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.01.24_Scarlet_Minic/scarlet-mimic-years-long-espionage-targets-minority-activists.pdf",
+      "year": "2016",
+      "report_folder": "2016.01.24_Scarlet_Minic",
+      "size_bytes": 1134121,
+      "publisher_hint": "",
+      "index_published": "2016-01-24",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.01.26.BlackEnergy3/BlackEnergy3_WP_012716_1c.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.01.26.BlackEnergy3/BlackEnergy3_WP_012716_1c.pdf",
+      "year": "2016",
+      "report_folder": "2016.01.26.BlackEnergy3",
+      "size_bytes": 7183584,
+      "publisher_hint": "",
+      "index_published": "2016-01-26",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.01.27.Hi-Zor.RAT/introducing-hi-zor-rat.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.01.27.Hi-Zor.RAT/introducing-hi-zor-rat.html.pdf",
+      "year": "2016",
+      "report_folder": "2016.01.27.Hi-Zor.RAT",
+      "size_bytes": 293189,
+      "publisher_hint": "",
+      "index_published": "2016-01-27",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.01.29.Malicious_Office_files_dropping_Kasidet_and_Dridex/malicious-office-files-dropping-kasidet.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.01.29.Malicious_Office_files_dropping_Kasidet_and_Dridex/malicious-office-files-dropping-kasidet.html.pdf",
+      "year": "2016",
+      "report_folder": "2016.01.29.Malicious_Office_files_dropping_Kasidet_and_Dridex",
+      "size_bytes": 314979,
+      "publisher_hint": "",
+      "index_published": "2016-01-29",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.02.01.Massive_Admedia_Adverting_iFrame_Infection/massive-admedia-iframe-javascript-infection.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.02.01.Massive_Admedia_Adverting_iFrame_Infection/massive-admedia-iframe-javascript-infection.html.pdf",
+      "year": "2016",
+      "report_folder": "2016.02.01.Massive_Admedia_Adverting_iFrame_Infection",
+      "size_bytes": 538849,
+      "publisher_hint": "",
+      "index_published": "2016-02-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.02.03.Emissary_Trojan_Changelog/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.02.03.Emissary_Trojan_Changelog/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve.pdf",
+      "year": "2016",
+      "report_folder": "2016.02.03.Emissary_Trojan_Changelog",
+      "size_bytes": 568988,
+      "publisher_hint": "",
+      "index_published": "2016-10-31",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.02.08.Know_Your_Enemies_2.0/ICIT-Brief-Know-Your-Enemies-2.0.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.02.08.Know_Your_Enemies_2.0/ICIT-Brief-Know-Your-Enemies-2.0.pdf",
+      "year": "2016",
+      "report_folder": "2016.02.08.Know_Your_Enemies_2.0",
+      "size_bytes": 1702940,
+      "publisher_hint": "",
+      "index_published": "2016-02-08",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.02.11.Hacktivism_India_vs_Pakistan/india-pakistan-cyber-rivalry.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.02.11.Hacktivism_India_vs_Pakistan/india-pakistan-cyber-rivalry.pdf",
+      "year": "2016",
+      "report_folder": "2016.02.11.Hacktivism_India_vs_Pakistan",
+      "size_bytes": 1446435,
+      "publisher_hint": "",
+      "index_published": "2016-02-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.03.01.Operation_Transparent_Tribe/proofpoint-operation-transparent-tribe-threat-insight-en.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.03.01.Operation_Transparent_Tribe/proofpoint-operation-transparent-tribe-threat-insight-en.pdf",
+      "year": "2016",
+      "report_folder": "2016.03.01.Operation_Transparent_Tribe",
+      "size_bytes": 5327321,
+      "publisher_hint": "",
+      "index_published": "2016-03-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.04.22.the-ghost-dragon/The.Ghost.Dragon.-.Cylance.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.04.22.the-ghost-dragon/The.Ghost.Dragon.-.Cylance.pdf",
+      "year": "2016",
+      "report_folder": "2016.04.22.the-ghost-dragon",
+      "size_bytes": 298723,
+      "publisher_hint": "",
+      "index_published": "2016-04-22",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.05.02.Prince_of_Persia_Infy_Malware/prince-of-persia-infy-malware-active-in-decade-of-targeted-attacks.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.05.02.Prince_of_Persia_Infy_Malware/prince-of-persia-infy-malware-active-in-decade-of-targeted-attacks.pdf",
+      "year": "2016",
+      "report_folder": "2016.05.02.Prince_of_Persia_Infy_Malware",
+      "size_bytes": 581734,
+      "publisher_hint": "",
+      "index_published": "2016-05-02",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.05.06_Exploring_CVE-2015-2545/exploring-cve-2015-2545-and-its-users.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.05.06_Exploring_CVE-2015-2545/exploring-cve-2015-2545-and-its-users.html.pdf",
+      "year": "2016",
+      "report_folder": "2016.05.06_Exploring_CVE-2015-2545",
+      "size_bytes": 219233,
+      "publisher_hint": "",
+      "index_published": "2016-05-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.05.18.Operation_Groundbait/Operation-Groundbait.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.05.18.Operation_Groundbait/Operation-Groundbait.pdf",
+      "year": "2016",
+      "report_folder": "2016.05.18.Operation_Groundbait",
+      "size_bytes": 2737514,
+      "publisher_hint": "",
+      "index_published": "2016-05-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.05.22.Targeted_Attacks_Against_Banks_in_Middle_East/targeted_attacksaga.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.05.22.Targeted_Attacks_Against_Banks_in_Middle_East/targeted_attacksaga.html.pdf",
+      "year": "2016",
+      "report_folder": "2016.05.22.Targeted_Attacks_Against_Banks_in_Middle_East",
+      "size_bytes": 941267,
+      "publisher_hint": "",
+      "index_published": "2016-05-22",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.05.23.APT_Case_RUAG/Report_Ruag-Espionage-Case.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.05.23.APT_Case_RUAG/Report_Ruag-Espionage-Case.pdf",
+      "year": "2016",
+      "report_folder": "2016.05.23.APT_Case_RUAG",
+      "size_bytes": 1856974,
+      "publisher_hint": "",
+      "index_published": "2016-05-23",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.05.24.New_Wekby_Attacks/unit42-new-wekby-attacks-use-dns-requests-as-command-and-control-mechanism.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.05.24.New_Wekby_Attacks/unit42-new-wekby-attacks-use-dns-requests-as-command-and-control-mechanism.pdf",
+      "year": "2016",
+      "report_folder": "2016.05.24.New_Wekby_Attacks",
+      "size_bytes": 556899,
+      "publisher_hint": "",
+      "index_published": "2016-05-24",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.05.25.CVE-2015-2545/cve-2015-2545-overview-of-current-threats.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.05.25.CVE-2015-2545/cve-2015-2545-overview-of-current-threats.pdf",
+      "year": "2016",
+      "report_folder": "2016.05.25.CVE-2015-2545",
+      "size_bytes": 3088200,
+      "publisher_hint": "",
+      "index_published": "2016-05-25",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.06.16.Threat_Group-4127_Targets_Hillary_Clinton_Presidential_Campaign/cf006cb4-316e-11e6-8ff7-7b6c1998b7a0_story.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.06.16.Threat_Group-4127_Targets_Hillary_Clinton_Presidential_Campaign/cf006cb4-316e-11e6-8ff7-7b6c1998b7a0_story.html.pdf",
+      "year": "2016",
+      "report_folder": "2016.06.16.Threat_Group-4127_Targets_Hillary_Clinton_Presidential_Campaign",
+      "size_bytes": 536654,
+      "publisher_hint": "",
+      "index_published": "2016-06-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.06.16.Threat_Group-4127_Targets_Hillary_Clinton_Presidential_Campaign/threat-group-4127-targets-hillary-clinton-presidential-campaign.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.06.16.Threat_Group-4127_Targets_Hillary_Clinton_Presidential_Campaign/threat-group-4127-targets-hillary-clinton-presidential-campaign.pdf",
+      "year": "2016",
+      "report_folder": "2016.06.16.Threat_Group-4127_Targets_Hillary_Clinton_Presidential_Campaign",
+      "size_bytes": 2753064,
+      "publisher_hint": "",
+      "index_published": "2016-06-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.06.21.Redline_Drawn_China_Recalculates_Its_Use_of_Cyber_Espionage/rpt-china-espionage.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.06.21.Redline_Drawn_China_Recalculates_Its_Use_of_Cyber_Espionage/rpt-china-espionage.pdf",
+      "year": "2016",
+      "report_folder": "2016.06.21.Redline_Drawn_China_Recalculates_Its_Use_of_Cyber_Espionage",
+      "size_bytes": 2150927,
+      "publisher_hint": "",
+      "index_published": "2016-06-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.06.21.visiting_the_bear_den_recon_2016_calvet_campos_dupuy/visiting_the_bear_den_recon_2016_calvet_campos_dupuy-1.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.06.21.visiting_the_bear_den_recon_2016_calvet_campos_dupuy/visiting_the_bear_den_recon_2016_calvet_campos_dupuy-1.pdf",
+      "year": "2016",
+      "report_folder": "2016.06.21.visiting_the_bear_den_recon_2016_calvet_campos_dupuy",
+      "size_bytes": 3445185,
+      "publisher_hint": "",
+      "index_published": "2016-06-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.06.23.Tracking_Elirks_Variants_in_Japan/unit42-tracking-elirks-variants-in-japan-similarities-to-previous-attacks.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.06.23.Tracking_Elirks_Variants_in_Japan/unit42-tracking-elirks-variants-in-japan-similarities-to-previous-attacks.pdf",
+      "year": "2016",
+      "report_folder": "2016.06.23.Tracking_Elirks_Variants_in_Japan",
+      "size_bytes": 436406,
+      "publisher_hint": "",
+      "index_published": "2016-06-23",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.06.30.Asruex/asruex-malware-infecting-through-shortcut-files.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.06.30.Asruex/asruex-malware-infecting-through-shortcut-files.html.pdf",
+      "year": "2016",
+      "report_folder": "2016.06.30.Asruex",
+      "size_bytes": 230417,
+      "publisher_hint": "",
+      "index_published": "2016-06-30",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.07.07.UNVEILING_PATCHWORK/Unveiling-Patchwork.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.07.07.UNVEILING_PATCHWORK/Unveiling-Patchwork.pdf",
+      "year": "2016",
+      "report_folder": "2016.07.07.UNVEILING_PATCHWORK",
+      "size_bytes": 2208636,
+      "publisher_hint": "",
+      "index_published": "2016-07-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.07.07.nettraveler-apt-targets-russian-european-interests/nettraveler-apt-targets-russian-european-interests.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.07.07.nettraveler-apt-targets-russian-european-interests/nettraveler-apt-targets-russian-european-interests.pdf",
+      "year": "2016",
+      "report_folder": "2016.07.07.nettraveler-apt-targets-russian-european-interests",
+      "size_bytes": 1083192,
+      "publisher_hint": "",
+      "index_published": "2016-07-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.07.26.Attack_Delivers_9002_Trojan_Through_Google_Drive/unit-42-attack-delivers-9002-trojan-through-google-drive.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.07.26.Attack_Delivers_9002_Trojan_Through_Google_Drive/unit-42-attack-delivers-9002-trojan-through-google-drive.pdf",
+      "year": "2016",
+      "report_folder": "2016.07.26.Attack_Delivers_9002_Trojan_Through_Google_Drive",
+      "size_bytes": 557479,
+      "publisher_hint": "",
+      "index_published": "2016-07-26",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.08.03.i-got-a-letter-from-the-government/i-got-a-letter-from-the-government.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.08.03.i-got-a-letter-from-the-government/i-got-a-letter-from-the-government.pdf",
+      "year": "2016",
+      "report_folder": "2016.08.03.i-got-a-letter-from-the-government",
+      "size_bytes": 1118695,
+      "publisher_hint": "",
+      "index_published": "2016-08-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.08.04.russian-apt-toolkits/Running for Office_ Russian APT Toolkits Revealed.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.08.04.russian-apt-toolkits/Running%20for%20Office_%20Russian%20APT%20Toolkits%20Revealed.pdf",
+      "year": "2016",
+      "report_folder": "2016.08.04.russian-apt-toolkits",
+      "size_bytes": 3339353,
+      "publisher_hint": "",
+      "index_published": "2016-08-04",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.08.06.APT-C-09/[CN]_APT-C-09.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.08.06.APT-C-09/%5BCN%5D_APT-C-09.pdf",
+      "year": "2016",
+      "report_folder": "2016.08.06.APT-C-09",
+      "size_bytes": 837890,
+      "publisher_hint": "",
+      "index_published": "2016-08-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.08.06.APT-C-09/[CN]_APT-C-09_report.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.08.06.APT-C-09/%5BCN%5D_APT-C-09_report.pdf",
+      "year": "2016",
+      "report_folder": "2016.08.06.APT-C-09",
+      "size_bytes": 3859873,
+      "publisher_hint": "",
+      "index_published": "2016-08-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.08.07.Strider_Cyberespionage_group_turns_eye_of_Sauron_on_targets/strider-cyberespionage-group-turns-eye-sauron-targets.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.08.07.Strider_Cyberespionage_group_turns_eye_of_Sauron_on_targets/strider-cyberespionage-group-turns-eye-sauron-targets.pdf",
+      "year": "2016",
+      "report_folder": "2016.08.07.Strider_Cyberespionage_group_turns_eye_of_Sauron_on_targets",
+      "size_bytes": 260590,
+      "publisher_hint": "",
+      "index_published": "2016-08-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.08.08.monsoon-analysis-apt-campaign/forcepoint-security-labs-monsoon-analysis-report.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.08.08.monsoon-analysis-apt-campaign/forcepoint-security-labs-monsoon-analysis-report.pdf",
+      "year": "2016",
+      "report_folder": "2016.08.08.monsoon-analysis-apt-campaign",
+      "size_bytes": 3215160,
+      "publisher_hint": "",
+      "index_published": "2016-08-08",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.08.11.Iran-And-The-Soft-War-For-Internet-Dominance/us-16-Guarnieri-Anderson-Iran-And-The-Soft-War-For-Internet-Dominance-paper.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.08.11.Iran-And-The-Soft-War-For-Internet-Dominance/us-16-Guarnieri-Anderson-Iran-And-The-Soft-War-For-Internet-Dominance-paper.pdf",
+      "year": "2016",
+      "report_folder": "2016.08.11.Iran-And-The-Soft-War-For-Internet-Dominance",
+      "size_bytes": 2551438,
+      "publisher_hint": "",
+      "index_published": "2016-08-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.08.24.million-dollar-dissident-iphone-zero-day-nso-group-uae/million-dollar-dissident-iphone-zero-day-nso-group-uae.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.08.24.million-dollar-dissident-iphone-zero-day-nso-group-uae/million-dollar-dissident-iphone-zero-day-nso-group-uae.pdf",
+      "year": "2016",
+      "report_folder": "2016.08.24.million-dollar-dissident-iphone-zero-day-nso-group-uae",
+      "size_bytes": 2583132,
+      "publisher_hint": "",
+      "index_published": "2016-08-24",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.09.28.russia-hacks-bellingcat-mh17-investigation/Russia Hacks Bellingcat MH17 Investigation _ ThreatConnect.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.09.28.russia-hacks-bellingcat-mh17-investigation/Russia%20Hacks%20Bellingcat%20MH17%20Investigation%20_%20ThreatConnect.pdf",
+      "year": "2016",
+      "report_folder": "2016.09.28.russia-hacks-bellingcat-mh17-investigation",
+      "size_bytes": 2686842,
+      "publisher_hint": "",
+      "index_published": "2016-09-28",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.10.03.StrongPity/On the StrongPity Waterhole Attacks - Securelist.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.10.03.StrongPity/On%20the%20StrongPity%20Waterhole%20Attacks%20-%20Securelist.pdf",
+      "year": "2016",
+      "report_folder": "2016.10.03.StrongPity",
+      "size_bytes": 855373,
+      "publisher_hint": "",
+      "index_published": "2016-10-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.10.05_Wave_Your_False_flag/Bartholomew-GuerreroSaade-VB2016.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.10.05_Wave_Your_False_flag/Bartholomew-GuerreroSaade-VB2016.pdf",
+      "year": "2016",
+      "report_folder": "2016.10.05_Wave_Your_False_flag",
+      "size_bytes": 93114,
+      "publisher_hint": "",
+      "index_published": "2016-10-05",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.10.26.Moonlight_Middle_East/moonlight-middle-east-targeted-attacks.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.10.26.Moonlight_Middle_East/moonlight-middle-east-targeted-attacks.pdf",
+      "year": "2016",
+      "report_folder": "2016.10.26.Moonlight_Middle_East",
+      "size_bytes": 664996,
+      "publisher_hint": "",
+      "index_published": "2016-10-26",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.10.27.BLACKGEAR_Espionage_Campaign_Evolves/BLACKGEAR.Espionage.Campaign.Evolves.-.Trend.Micro.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.10.27.BLACKGEAR_Espionage_Campaign_Evolves/BLACKGEAR.Espionage.Campaign.Evolves.-.Trend.Micro.pdf",
+      "year": "2016",
+      "report_folder": "2016.10.27.BLACKGEAR_Espionage_Campaign_Evolves",
+      "size_bytes": 443405,
+      "publisher_hint": "",
+      "index_published": "2016-10-27",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.10.27.BLACKGEAR_Espionage_Campaign_Evolves/TrendLabs Security Intelligence BlogBLACKGEAR Espionage Campaign Evolves, Adds Japan To Target List - TrendLabs Security Intelligence Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.10.27.BLACKGEAR_Espionage_Campaign_Evolves/TrendLabs%20Security%20Intelligence%20BlogBLACKGEAR%20Espionage%20Campaign%20Evolves%2C%20Adds%20Japan%20To%20Target%20List%20-%20TrendLabs%20Security%20Intelligence%20Blog.pdf",
+      "year": "2016",
+      "report_folder": "2016.10.27.BLACKGEAR_Espionage_Campaign_Evolves",
+      "size_bytes": 2876633,
+      "publisher_hint": "",
+      "index_published": "2016-10-27",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.10.31.Emissary_Trojan_Changelog/Emissary Trojan Changelog_ Did Operation Lotus Blossom Cause It to Evolve_ - Palo Alto Networks Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.10.31.Emissary_Trojan_Changelog/Emissary%20Trojan%20Changelog_%20Did%20Operation%20Lotus%20Blossom%20Cause%20It%20to%20Evolve_%20-%20Palo%20Alto%20Networks%20Blog.pdf",
+      "year": "2016",
+      "report_folder": "2016.10.31.Emissary_Trojan_Changelog",
+      "size_bytes": 833964,
+      "publisher_hint": "",
+      "index_published": "2016-10-31",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.10.31.Emissary_Trojan_Changelog/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.10.31.Emissary_Trojan_Changelog/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve.pdf",
+      "year": "2016",
+      "report_folder": "2016.10.31.Emissary_Trojan_Changelog",
+      "size_bytes": 385106,
+      "publisher_hint": "",
+      "index_published": "2016-10-31",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.11.03.Ukraine_Cybersecurity_Threat_Briefing/ukraine-report-when-the-lights-went-out.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.11.03.Ukraine_Cybersecurity_Threat_Briefing/ukraine-report-when-the-lights-went-out.pdf",
+      "year": "2016",
+      "report_folder": "2016.11.03.Ukraine_Cybersecurity_Threat_Briefing",
+      "size_bytes": 5273495,
+      "publisher_hint": "",
+      "index_published": "2016-11-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.11.09_down-the-h-w0rm-hole-with-houdinis-rat/Down the H-W0rm Hole with Houdini's RAT - Threat Geek.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.11.09_down-the-h-w0rm-hole-with-houdinis-rat/Down%20the%20H-W0rm%20Hole%20with%20Houdini%27s%20RAT%20-%20Threat%20Geek.pdf",
+      "year": "2016",
+      "report_folder": "2016.11.09_down-the-h-w0rm-hole-with-houdinis-rat",
+      "size_bytes": 1498650,
+      "publisher_hint": "",
+      "index_published": "2016-11-09",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.11.09_down-the-h-w0rm-hole-with-houdinis-rat/down-the-h-w0rm-hole-with-houdinis-rat.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.11.09_down-the-h-w0rm-hole-with-houdinis-rat/down-the-h-w0rm-hole-with-houdinis-rat.html.pdf",
+      "year": "2016",
+      "report_folder": "2016.11.09_down-the-h-w0rm-hole-with-houdinis-rat",
+      "size_bytes": 251247,
+      "publisher_hint": "",
+      "index_published": "2016-11-09",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.11.22.tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy/tropic-trooper-targets-taiwanese.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.11.22.tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy/tropic-trooper-targets-taiwanese.pdf",
+      "year": "2016",
+      "report_folder": "2016.11.22.tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy",
+      "size_bytes": 520531,
+      "publisher_hint": "",
+      "index_published": "2016-11-22",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.11.30.nic-cyber-security-themed/nic-cyber-security-themed-spear-phishing-target-indian-government-organizations.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.11.30.nic-cyber-security-themed/nic-cyber-security-themed-spear-phishing-target-indian-government-organizations.pdf",
+      "year": "2016",
+      "report_folder": "2016.11.30.nic-cyber-security-themed",
+      "size_bytes": 2026128,
+      "publisher_hint": "",
+      "index_published": "2016-11-30",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2016/2016.12.15.PROMETHIUM_and_NEODYMIUM/Microsoft_Security_Intelligence_Report_Volume_21_English.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2016/2016.12.15.PROMETHIUM_and_NEODYMIUM/Microsoft_Security_Intelligence_Report_Volume_21_English.pdf",
+      "year": "2016",
+      "report_folder": "2016.12.15.PROMETHIUM_and_NEODYMIUM",
+      "size_bytes": 5574378,
+      "publisher_hint": "",
+      "index_published": "2016-12-15",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.01.11.apt28_at_the_center/APT28-Center-of-Storm-2017.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.01.11.apt28_at_the_center/APT28-Center-of-Storm-2017.pdf",
+      "year": "2017",
+      "report_folder": "2017.01.11.apt28_at_the_center",
+      "size_bytes": 1751538,
+      "publisher_hint": "",
+      "index_published": "2017-01-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.01.18.Operation-Grand-Mars/Operation Grand Mars.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.01.18.Operation-Grand-Mars/Operation%20Grand%20Mars.pdf",
+      "year": "2017",
+      "report_folder": "2017.01.18.Operation-Grand-Mars",
+      "size_bytes": 2441174,
+      "publisher_hint": "",
+      "index_published": "2017-01-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.02.02.APT_Targets_Russia_and_Belarus_with_ZeroT_and_PlugX/APT-targets-russia-belarus-zerot-plugx.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.02.02.APT_Targets_Russia_and_Belarus_with_ZeroT_and_PlugX/APT-targets-russia-belarus-zerot-plugx.pdf",
+      "year": "2017",
+      "report_folder": "2017.02.02.APT_Targets_Russia_and_Belarus_with_ZeroT_and_PlugX",
+      "size_bytes": 1511365,
+      "publisher_hint": "",
+      "index_published": "2017-02-02",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.02.10.Enhanced_Analysis_of_GRIZZLY_STEPPE/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.02.10.Enhanced_Analysis_of_GRIZZLY_STEPPE/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf",
+      "year": "2017",
+      "report_folder": "2017.02.10.Enhanced_Analysis_of_GRIZZLY_STEPPE",
+      "size_bytes": 2165432,
+      "publisher_hint": "",
+      "index_published": "2017-02-10",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.02.10.cyber-attack-targeting-indian-navys-submarine-warship-manufacturer/Cyber_Attack_Targeting_Indian_Navy.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.02.10.cyber-attack-targeting-indian-navys-submarine-warship-manufacturer/Cyber_Attack_Targeting_Indian_Navy.pdf",
+      "year": "2017",
+      "report_folder": "2017.02.10.cyber-attack-targeting-indian-navys-submarine-warship-manufacturer",
+      "size_bytes": 2451291,
+      "publisher_hint": "",
+      "index_published": "2017-02-10",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.02.12.lazarus-watering-hole-attacks/lazarus-watering-hole-attacks.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.02.12.lazarus-watering-hole-attacks/lazarus-watering-hole-attacks.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.02.12.lazarus-watering-hole-attacks",
+      "size_bytes": 378322,
+      "publisher_hint": "",
+      "index_published": "2017-02-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.02.15.iranian-pupyrat-bites-middle-eastern-organizations/iranian-pupyrat-bites-middle-eastern-organizations.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.02.15.iranian-pupyrat-bites-middle-eastern-organizations/iranian-pupyrat-bites-middle-eastern-organizations.pdf",
+      "year": "2017",
+      "report_folder": "2017.02.15.iranian-pupyrat-bites-middle-eastern-organizations",
+      "size_bytes": 2070307,
+      "publisher_hint": "",
+      "index_published": "2017-02-15",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.02.15.magic-hound-campaign/unit42-magic-hound-campaign-attacks-saudi-targets.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.02.15.magic-hound-campaign/unit42-magic-hound-campaign-attacks-saudi-targets.pdf",
+      "year": "2017",
+      "report_folder": "2017.02.15.magic-hound-campaign",
+      "size_bytes": 2145407,
+      "publisher_hint": "",
+      "index_published": "2017-02-15",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.02.17.chches-malware/chches-malware--93d6.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.02.17.chches-malware/chches-malware--93d6.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.02.17.chches-malware",
+      "size_bytes": 425312,
+      "publisher_hint": "",
+      "index_published": "2017-02-17",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.02.20.Lazarus_False_Flag_Malware/lazarus-false-flag-malware.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.02.20.Lazarus_False_Flag_Malware/lazarus-false-flag-malware.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.02.20.Lazarus_False_Flag_Malware",
+      "size_bytes": 546046,
+      "publisher_hint": "",
+      "index_published": "2017-02-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.02.22.Spear_Phishing_Mongolian_Government/spear_phishing_techn.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.02.22.Spear_Phishing_Mongolian_Government/spear_phishing_techn.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.02.22.Spear_Phishing_Mongolian_Government",
+      "size_bytes": 833025,
+      "publisher_hint": "",
+      "index_published": "2017-02-22",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.04.05.KASPERAGENT_and_MICROPSIA/Targeted Attacks in the Middle East Using KASPERAGENT and MICROPSIA - Palo Alto Networks Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.04.05.KASPERAGENT_and_MICROPSIA/Targeted%20Attacks%20in%20the%20Middle%20East%20Using%20KASPERAGENT%20and%20MICROPSIA%20-%20Palo%20Alto%20Networks%20Blog.pdf",
+      "year": "2017",
+      "report_folder": "2017.04.05.KASPERAGENT_and_MICROPSIA",
+      "size_bytes": 2536631,
+      "publisher_hint": "",
+      "index_published": "2017-04-05",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.04.06.Operation_Cloud_Hopper/cloud-hopper-report-final-upda_72977.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.04.06.Operation_Cloud_Hopper/cloud-hopper-report-final-upda_72977.pdf",
+      "year": "2017",
+      "report_folder": "2017.04.06.Operation_Cloud_Hopper",
+      "size_bytes": 1943159,
+      "publisher_hint": "",
+      "index_published": "2017-04-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.04.27.iranian-fileless-cyberattack-on-israel-word-vulnerability/iranian-fileless-cyberattack-on-israel.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.04.27.iranian-fileless-cyberattack-on-israel-word-vulnerability/iranian-fileless-cyberattack-on-israel.pdf",
+      "year": "2017",
+      "report_folder": "2017.04.27.iranian-fileless-cyberattack-on-israel-word-vulnerability",
+      "size_bytes": 1227854,
+      "publisher_hint": "",
+      "index_published": "2017-04-27",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.05.03.konni-malware-under-radar-for-years/konni-malware-under-radar-for-years.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.05.03.konni-malware-under-radar-for-years/konni-malware-under-radar-for-years.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.05.03.konni-malware-under-radar-for-years",
+      "size_bytes": 1014211,
+      "publisher_hint": "",
+      "index_published": "2017-05-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.05.14.cyber-espionage-apt32/cyber-espionage-apt32.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.05.14.cyber-espionage-apt32/cyber-espionage-apt32.pdf",
+      "year": "2017",
+      "report_folder": "2017.05.14.cyber-espionage-apt32",
+      "size_bytes": 878405,
+      "publisher_hint": "",
+      "index_published": "2017-05-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.05.24.OPERATION_COBALT_KITTY/operation-cobalt-kitty.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.05.24.OPERATION_COBALT_KITTY/operation-cobalt-kitty.pdf",
+      "year": "2017",
+      "report_folder": "2017.05.24.OPERATION_COBALT_KITTY",
+      "size_bytes": 2612049,
+      "publisher_hint": "",
+      "index_published": "2017-05-24",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.06.15.north-korea-cyber-activity/North Korea Is Not Crazy.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.06.15.north-korea-cyber-activity/North%20Korea%20Is%20Not%20Crazy.pdf",
+      "year": "2017",
+      "report_folder": "2017.06.15.north-korea-cyber-activity",
+      "size_bytes": 6833287,
+      "publisher_hint": "",
+      "index_published": "2017-06-15",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.06.30.telebots-back-supply-chain/TeleBots are back_ supply-chain attacks against Ukraine.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.06.30.telebots-back-supply-chain/TeleBots%20are%20back_%20supply-chain%20attacks%20against%20Ukraine.pdf",
+      "year": "2017",
+      "report_folder": "2017.06.30.telebots-back-supply-chain",
+      "size_bytes": 840674,
+      "publisher_hint": "",
+      "index_published": "2017-06-30",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.07.06.Operation_Desert_Eagle/operation-desert-eagle.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.07.06.Operation_Desert_Eagle/operation-desert-eagle.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.07.06.Operation_Desert_Eagle",
+      "size_bytes": 788924,
+      "publisher_hint": "",
+      "index_published": "2017-07-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.07.11.winnti-evolution-going-open-source/winnti-evolution-going-open-source.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.07.11.winnti-evolution-going-open-source/winnti-evolution-going-open-source.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.07.11.winnti-evolution-going-open-source",
+      "size_bytes": 883583,
+      "publisher_hint": "",
+      "index_published": "2017-07-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.07.24.Tick_group/unit42-tick-group-continues-attacks.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.07.24.Tick_group/unit42-tick-group-continues-attacks.pdf",
+      "year": "2017",
+      "report_folder": "2017.07.24.Tick_group",
+      "size_bytes": 546913,
+      "publisher_hint": "",
+      "index_published": "2017-07-24",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.08.01.cobalt-group-2017-cobalt-strikes-back/cobalt-group-2017-cobalt-strikes-back.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.08.01.cobalt-group-2017-cobalt-strikes-back/cobalt-group-2017-cobalt-strikes-back.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.08.01.cobalt-group-2017-cobalt-strikes-back",
+      "size_bytes": 1453592,
+      "publisher_hint": "",
+      "index_published": "2017-08-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.08.08.APT_Trends_Report_2017Q2/APT Trends report Q2 2017.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.08.08.APT_Trends_Report_2017Q2/APT%20Trends%20report%20Q2%202017.pdf",
+      "year": "2017",
+      "report_folder": "2017.08.08.APT_Trends_Report_2017Q2",
+      "size_bytes": 250690,
+      "publisher_hint": "",
+      "index_published": "2017-08-08",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.08.11.apt28-targets-hospitality-sector/apt28-targets-hospitality-sector.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.08.11.apt28-targets-hospitality-sector/apt28-targets-hospitality-sector.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.08.11.apt28-targets-hospitality-sector",
+      "size_bytes": 258759,
+      "publisher_hint": "",
+      "index_published": "2017-08-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.08.17.turla-apt-actor-refreshes-kopiluwak-javascript-backdoor/Turla_APT.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.08.17.turla-apt-actor-refreshes-kopiluwak-javascript-backdoor/Turla_APT.pdf",
+      "year": "2017",
+      "report_folder": "2017.08.17.turla-apt-actor-refreshes-kopiluwak-javascript-backdoor",
+      "size_bytes": 1031351,
+      "publisher_hint": "",
+      "index_published": "2017-08-17",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.08.18.Russian_Bank_Offices_Hit/Russian-Bank-Offices.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.08.18.Russian_Bank_Offices_Hit/Russian-Bank-Offices.pdf",
+      "year": "2017",
+      "report_folder": "2017.08.18.Russian_Bank_Offices_Hit",
+      "size_bytes": 1003906,
+      "publisher_hint": "",
+      "index_published": "2017-08-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.08.25.operation-rat-cook/operation-rat-cook-chinese-apt-actors-use-fake-game-thrones-leaks-lures.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.08.25.operation-rat-cook/operation-rat-cook-chinese-apt-actors-use-fake-game-thrones-leaks-lures.pdf",
+      "year": "2017",
+      "report_folder": "2017.08.25.operation-rat-cook",
+      "size_bytes": 1180361,
+      "publisher_hint": "",
+      "index_published": "2017-08-25",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.08.30.Introducing_WhiteBear/Introducing WhiteBear - Securelist.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.08.30.Introducing_WhiteBear/Introducing%20WhiteBear%20-%20Securelist.pdf",
+      "year": "2017",
+      "report_folder": "2017.08.30.Introducing_WhiteBear",
+      "size_bytes": 219393,
+      "publisher_hint": "",
+      "index_published": "2017-08-30",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.09.06.dragonfly-western-energy-sector-targeted-sophisticated-attack-group/Dragonfly_ Western energy sector targeted by sophisticated attack group _ Symantec Connect Community.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.09.06.dragonfly-western-energy-sector-targeted-sophisticated-attack-group/Dragonfly_%20Western%20energy%20sector%20targeted%20by%20sophisticated%20attack%20group%20_%20Symantec%20Connect%20Community.pdf",
+      "year": "2017",
+      "report_folder": "2017.09.06.dragonfly-western-energy-sector-targeted-sophisticated-attack-group",
+      "size_bytes": 655838,
+      "publisher_hint": "",
+      "index_published": "2017-09-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.09.12.FINSPY_CVE-2017-8759/zero-day-used-to-distribute-finspy.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.09.12.FINSPY_CVE-2017-8759/zero-day-used-to-distribute-finspy.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.09.12.FINSPY_CVE-2017-8759",
+      "size_bytes": 588597,
+      "publisher_hint": "",
+      "index_published": "2017-09-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.09.20.CCleanup_C2/CCleaner_C2.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.09.20.CCleanup_C2/CCleaner_C2.pdf",
+      "year": "2017",
+      "report_folder": "2017.09.20.CCleanup_C2",
+      "size_bytes": 2339611,
+      "publisher_hint": "",
+      "index_published": "2017-09-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.09.20.apt33-insights-into-iranian-cyber-espionage/Insights into Iranian Cyber Espionage_ APT33 Targets Aerospace and Energy Sectors and has Ties to Destructive Malware « Threat Research Blog _ FireEye Inc.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.09.20.apt33-insights-into-iranian-cyber-espionage/Insights%20into%20Iranian%20Cyber%20Espionage_%20APT33%20Targets%20Aerospace%20and%20Energy%20Sectors%20and%20has%20Ties%20to%20Destructive%20Malware%20%C2%AB%20Threat%20Research%20Blog%20_%20FireEye%20Inc.pdf",
+      "year": "2017",
+      "report_folder": "2017.09.20.apt33-insights-into-iranian-cyber-espionage",
+      "size_bytes": 891131,
+      "publisher_hint": "",
+      "index_published": "2017-09-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.10.16.BlackOasis_APT/BlackOasis.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.10.16.BlackOasis_APT/BlackOasis.pdf",
+      "year": "2017",
+      "report_folder": "2017.10.16.BlackOasis_APT",
+      "size_bytes": 720380,
+      "publisher_hint": "",
+      "index_published": "2017-10-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.10.24.greenbug/Greenbug.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.10.24.greenbug/Greenbug.pdf",
+      "year": "2017",
+      "report_folder": "2017.10.24.greenbug",
+      "size_bytes": 53882,
+      "publisher_hint": "",
+      "index_published": "2017-10-24",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.11.02.KeyBoys_are_back/The KeyBoys are back in town.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.11.02.KeyBoys_are_back/The%20KeyBoys%20are%20back%20in%20town.pdf",
+      "year": "2017",
+      "report_folder": "2017.11.02.KeyBoys_are_back",
+      "size_bytes": 654043,
+      "publisher_hint": "",
+      "index_published": "2017-11-02",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.11.02.LeetMX/LeetMX - a Yearlong Cyber-Attack Campaign Against Targets in Latin America - ClearSky Cyber Security.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.11.02.LeetMX/LeetMX%20-%20a%20Yearlong%20Cyber-Attack%20Campaign%20Against%20Targets%20in%20Latin%20America%20-%20ClearSky%20Cyber%20Security.pdf",
+      "year": "2017",
+      "report_folder": "2017.11.02.LeetMX",
+      "size_bytes": 398317,
+      "publisher_hint": "",
+      "index_published": "2017-11-02",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.11.06.ChessMaster_New_Strategy/chessmasters-new-strategy-evolving-tools-tactics.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.11.06.ChessMaster_New_Strategy/chessmasters-new-strategy-evolving-tools-tactics.pdf",
+      "year": "2017",
+      "report_folder": "2017.11.06.ChessMaster_New_Strategy",
+      "size_bytes": 1107513,
+      "publisher_hint": "",
+      "index_published": "2017-11-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.11.14.Muddying_the_Water/muddying-the-water-targeted-attacks.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.11.14.Muddying_the_Water/muddying-the-water-targeted-attacks.pdf",
+      "year": "2017",
+      "report_folder": "2017.11.14.Muddying_the_Water",
+      "size_bytes": 403583,
+      "publisher_hint": "",
+      "index_published": "2017-11-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.12.07.New_Targeted_Attack_in_the_Middle_East_by_APT34/targeted-attack-in-middle-east-by-apt34.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.12.07.New_Targeted_Attack_in_the_Middle_East_by_APT34/targeted-attack-in-middle-east-by-apt34.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.12.07.New_Targeted_Attack_in_the_Middle_East_by_APT34",
+      "size_bytes": 1156556,
+      "publisher_hint": "",
+      "index_published": "2017-12-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.12.11.MoneyTaker/Group-IB_MoneyTaker_report.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.12.11.MoneyTaker/Group-IB_MoneyTaker_report.pdf",
+      "year": "2017",
+      "report_folder": "2017.12.11.MoneyTaker",
+      "size_bytes": 1423448,
+      "publisher_hint": "",
+      "index_published": "2017-12-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.12.14.attackers-deploy-new-ics-attack-framework-triton/attackers-deploy-new-ics-attack-framework-triton.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.12.14.attackers-deploy-new-ics-attack-framework-triton/attackers-deploy-new-ics-attack-framework-triton.html.pdf",
+      "year": "2017",
+      "report_folder": "2017.12.14.attackers-deploy-new-ics-attack-framework-triton",
+      "size_bytes": 1047462,
+      "publisher_hint": "",
+      "index_published": "2017-12-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.12.19.North_Korea_Bitten_by_Bitcoin_Bug/blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.12.19.North_Korea_Bitten_by_Bitcoin_Bug/blog.pdf",
+      "year": "2017",
+      "report_folder": "2017.12.19.North_Korea_Bitten_by_Bitcoin_Bug",
+      "size_bytes": 1134259,
+      "publisher_hint": "",
+      "index_published": "2018-01-09",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2017/2017.12.19.North_Korea_Bitten_by_Bitcoin_Bug/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2017/2017.12.19.North_Korea_Bitten_by_Bitcoin_Bug/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf",
+      "year": "2017",
+      "report_folder": "2017.12.19.North_Korea_Bitten_by_Bitcoin_Bug",
+      "size_bytes": 6473461,
+      "publisher_hint": "",
+      "index_published": "2017-12-19",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.01.09.Turla_Mosquito/ESET_Turla_Mosquito.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.01.09.Turla_Mosquito/ESET_Turla_Mosquito.pdf",
+      "year": "2018",
+      "report_folder": "2018.01.09.Turla_Mosquito",
+      "size_bytes": 7139912,
+      "publisher_hint": "",
+      "index_published": "2018-01-09",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.01.09.Turla_Mosquito/blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.01.09.Turla_Mosquito/blog.pdf",
+      "year": "2018",
+      "report_folder": "2018.01.09.Turla_Mosquito",
+      "size_bytes": 329354,
+      "publisher_hint": "",
+      "index_published": "2018-01-09",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.01.12.update-pawn-storm-new-targets-politically/Pawn_Storm_Update_2018.Jan.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.01.12.update-pawn-storm-new-targets-politically/Pawn_Storm_Update_2018.Jan.pdf",
+      "year": "2018",
+      "report_folder": "2018.01.12.update-pawn-storm-new-targets-politically",
+      "size_bytes": 344311,
+      "publisher_hint": "",
+      "index_published": "2018-01-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.01.16.korea-in-crosshairs/korea-in-crosshairs.html.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.01.16.korea-in-crosshairs/korea-in-crosshairs.html.pdf",
+      "year": "2018",
+      "report_folder": "2018.01.16.korea-in-crosshairs",
+      "size_bytes": 2070109,
+      "publisher_hint": "",
+      "index_published": "2018-01-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.01.18.Dark_Caracal/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.01.18.Dark_Caracal/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf",
+      "year": "2018",
+      "report_folder": "2018.01.18.Dark_Caracal",
+      "size_bytes": 43713089,
+      "publisher_hint": "",
+      "index_published": "2018-01-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.01.25.oilrig_Middle_East/unit42-oilrig-uses-rgdoor-iis-backdoor-targets-middle-east.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.01.25.oilrig_Middle_East/unit42-oilrig-uses-rgdoor-iis-backdoor-targets-middle-east.pdf",
+      "year": "2018",
+      "report_folder": "2018.01.25.oilrig_Middle_East",
+      "size_bytes": 1339911,
+      "publisher_hint": "",
+      "index_published": "2018-01-25",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.01.29.VERMIN_Quasar_RAT_and_Custom_Malware_Used_In_Ukraine/VERMIN_ Quasar RAT and Custom Malware Used In Ukraine.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.01.29.VERMIN_Quasar_RAT_and_Custom_Malware_Used_In_Ukraine/VERMIN_%20Quasar%20RAT%20and%20Custom%20Malware%20Used%20In%20Ukraine.pdf",
+      "year": "2018",
+      "report_folder": "2018.01.29.VERMIN_Quasar_RAT_and_Custom_Malware_Used_In_Ukraine",
+      "size_bytes": 911069,
+      "publisher_hint": "",
+      "index_published": "2018-01-29",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.01.31.Comnie_Continues_to_Target_Organizations_in_East_Asia/unit42-comnie-continues-target-organizations-east-asia.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.01.31.Comnie_Continues_to_Target_Organizations_in_East_Asia/unit42-comnie-continues-target-organizations-east-asia.pdf",
+      "year": "2018",
+      "report_folder": "2018.01.31.Comnie_Continues_to_Target_Organizations_in_East_Asia",
+      "size_bytes": 5476555,
+      "publisher_hint": "",
+      "index_published": "2018-01-31",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.02.02.gold-dragon-widens-olympics-malware/Gold_Dragon_Olympics.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.02.02.gold-dragon-widens-olympics-malware/Gold_Dragon_Olympics.pdf",
+      "year": "2018",
+      "report_folder": "2018.02.02.gold-dragon-widens-olympics-malware",
+      "size_bytes": 1139945,
+      "publisher_hint": "",
+      "index_published": "2018-02-02",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.02.13.Lotus-Blossom-Continues/Lotus Blossom Continues ASEAN Targeting.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.02.13.Lotus-Blossom-Continues/Lotus%20Blossom%20Continues%20ASEAN%20Targeting.pdf",
+      "year": "2018",
+      "report_folder": "2018.02.13.Lotus-Blossom-Continues",
+      "size_bytes": 1207647,
+      "publisher_hint": "",
+      "index_published": "2018-02-13",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.02.20.musical-chairs-playing-tetris/Musical Chairs Playing Tetris.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.02.20.musical-chairs-playing-tetris/Musical%20Chairs%20Playing%20Tetris.pdf",
+      "year": "2018",
+      "report_folder": "2018.02.20.musical-chairs-playing-tetris",
+      "size_bytes": 368561,
+      "publisher_hint": "",
+      "index_published": "2018-02-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.02.28.sofacy-attacks-multiple-government-entities/Sofacy Attacks Multiple Government Entities.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.02.28.sofacy-attacks-multiple-government-entities/Sofacy%20Attacks%20Multiple%20Government%20Entities.pdf",
+      "year": "2018",
+      "report_folder": "2018.02.28.sofacy-attacks-multiple-government-entities",
+      "size_bytes": 1105031,
+      "publisher_hint": "",
+      "index_published": "2018-02-28",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.03.05.New_ComboJack_Malware/New_ComboJack_Steal_Cryptocurrency.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.03.05.New_ComboJack_Malware/New_ComboJack_Steal_Cryptocurrency.pdf",
+      "year": "2018",
+      "report_folder": "2018.03.05.New_ComboJack_Malware",
+      "size_bytes": 596797,
+      "publisher_hint": "",
+      "index_published": "2018-03-05",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.03.08.Territorial_Dispute/ukatemicrysys_territorialdispute.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.03.08.Territorial_Dispute/ukatemicrysys_territorialdispute.pdf",
+      "year": "2018",
+      "report_folder": "2018.03.08.Territorial_Dispute",
+      "size_bytes": 771161,
+      "publisher_hint": "",
+      "index_published": "2018-03-08",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.03.08.donot-team-leverages-new-modular/Donot Team in South Asia.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.03.08.donot-team-leverages-new-modular/Donot%20Team%20in%20South%20Asia.pdf",
+      "year": "2018",
+      "report_folder": "2018.03.08.donot-team-leverages-new-modular",
+      "size_bytes": 1423004,
+      "publisher_hint": "",
+      "index_published": "2018-03-08",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.03.12.MuddyWater_Middle_East_and_Central_Asia/MuddyWater_Middle_East_and_Central_Asia.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.03.12.MuddyWater_Middle_East_and_Central_Asia/MuddyWater_Middle_East_and_Central_Asia.pdf",
+      "year": "2018",
+      "report_folder": "2018.03.12.MuddyWater_Middle_East_and_Central_Asia",
+      "size_bytes": 1630871,
+      "publisher_hint": "",
+      "index_published": "2018-03-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.03.13.Iranian-threat-group/iranian-threat-group-updates-ttps-in-spear-phishing-campaign.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.03.13.Iranian-threat-group/iranian-threat-group-updates-ttps-in-spear-phishing-campaign.pdf",
+      "year": "2018",
+      "report_folder": "2018.03.13.Iranian-threat-group",
+      "size_bytes": 1406725,
+      "publisher_hint": "",
+      "index_published": "2018-03-13",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.03.13.OceanLotus_Old_techniques_new_backdoor/ESET_OceanLotus.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.03.13.OceanLotus_Old_techniques_new_backdoor/ESET_OceanLotus.pdf",
+      "year": "2018",
+      "report_folder": "2018.03.13.OceanLotus_Old_techniques_new_backdoor",
+      "size_bytes": 1900054,
+      "publisher_hint": "",
+      "index_published": "2018-03-13",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.03.14.tropic-trooper-new-strategy/Tropic Trooper’s New Strategy.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.03.14.tropic-trooper-new-strategy/Tropic%20Trooper%E2%80%99s%20New%20Strategy.pdf",
+      "year": "2018",
+      "report_folder": "2018.03.14.tropic-trooper-new-strategy",
+      "size_bytes": 2798385,
+      "publisher_hint": "",
+      "index_published": "2018-03-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.04.04.MacOS_Backdoor_OceanLotus/MacOS_Backdoor_OceanLotus.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.04.04.MacOS_Backdoor_OceanLotus/MacOS_Backdoor_OceanLotus.pdf",
+      "year": "2018",
+      "report_folder": "2018.04.04.MacOS_Backdoor_OceanLotus",
+      "size_bytes": 1225682,
+      "publisher_hint": "",
+      "index_published": "2018-04-04",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.04.23.HOGFISH_REDLEAVES_CAMPAIGN/Accenture-Hogfish-Threat-Analysis.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.04.23.HOGFISH_REDLEAVES_CAMPAIGN/Accenture-Hogfish-Threat-Analysis.pdf",
+      "year": "2018",
+      "report_folder": "2018.04.23.HOGFISH_REDLEAVES_CAMPAIGN",
+      "size_bytes": 1328928,
+      "publisher_hint": "",
+      "index_published": "2018-04-23",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.04.24.Operation_GhostSecret/operation-ghostsecret.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.04.24.Operation_GhostSecret/operation-ghostsecret.pdf",
+      "year": "2018",
+      "report_folder": "2018.04.24.Operation_GhostSecret",
+      "size_bytes": 688059,
+      "publisher_hint": "",
+      "index_published": "2018-04-24",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.04.26.GravityRAT/GravityRAT.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.04.26.GravityRAT/GravityRAT.pdf",
+      "year": "2018",
+      "report_folder": "2018.04.26.GravityRAT",
+      "size_bytes": 678548,
+      "publisher_hint": "",
+      "index_published": "2018-04-26",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.05.09.Iran_Hacker_Hierarchy_Exposed/cta-2018-0509.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.05.09.Iran_Hacker_Hierarchy_Exposed/cta-2018-0509.pdf",
+      "year": "2018",
+      "report_folder": "2018.05.09.Iran_Hacker_Hierarchy_Exposed",
+      "size_bytes": 2416433,
+      "publisher_hint": "",
+      "index_published": "2018-05-09",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.05.23.Confucius_Update/Confucius_Update.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.05.23.Confucius_Update/Confucius_Update.pdf",
+      "year": "2018",
+      "report_folder": "2018.05.23.Confucius_Update",
+      "size_bytes": 893831,
+      "publisher_hint": "",
+      "index_published": "2018-05-23",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.06.06.OPERATION_PROWLI/operation-prowli-traffic-manipulation-cryptocurrency-mining.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.06.06.OPERATION_PROWLI/operation-prowli-traffic-manipulation-cryptocurrency-mining.pdf",
+      "year": "2018",
+      "report_folder": "2018.06.06.OPERATION_PROWLI",
+      "size_bytes": 2477324,
+      "publisher_hint": "",
+      "index_published": "2018-06-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.06.07.Totally_Tubular_Treatise_on_TRITON_TriStation/totally-tubular-treatise-on-triton-and-tristation.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.06.07.Totally_Tubular_Treatise_on_TRITON_TriStation/totally-tubular-treatise-on-triton-and-tristation.pdf",
+      "year": "2018",
+      "report_folder": "2018.06.07.Totally_Tubular_Treatise_on_TRITON_TriStation",
+      "size_bytes": 1554285,
+      "publisher_hint": "",
+      "index_published": "2018-06-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.06.13.LuckyMouse/luckymouse-hits-national-data-center.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.06.13.LuckyMouse/luckymouse-hits-national-data-center.pdf",
+      "year": "2018",
+      "report_folder": "2018.06.13.LuckyMouse",
+      "size_bytes": 367003,
+      "publisher_hint": "",
+      "index_published": "2018-06-13",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.06.14.another-potential-muddywater-campaign/another-potential-muddywater-campaign-uses-powershell-based-prb-backdoor.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.06.14.another-potential-muddywater-campaign/another-potential-muddywater-campaign-uses-powershell-based-prb-backdoor.pdf",
+      "year": "2018",
+      "report_folder": "2018.06.14.another-potential-muddywater-campaign",
+      "size_bytes": 652384,
+      "publisher_hint": "",
+      "index_published": "2018-06-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.06.19.olympic-destroyer-is-still-alive/olympic-destroyer.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.06.19.olympic-destroyer-is-still-alive/olympic-destroyer.pdf",
+      "year": "2018",
+      "report_folder": "2018.06.19.olympic-destroyer-is-still-alive",
+      "size_bytes": 1046032,
+      "publisher_hint": "",
+      "index_published": "2018-06-19",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.07.12.Advanced_Mobile_Malware_Campaign_in_India/MDM_India.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.07.12.Advanced_Mobile_Malware_Campaign_in_India/MDM_India.pdf",
+      "year": "2018",
+      "report_folder": "2018.07.12.Advanced_Mobile_Malware_Campaign_in_India",
+      "size_bytes": 757777,
+      "publisher_hint": "",
+      "index_published": "2018-07-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.08.02.Goldfin_Security_Alert/Accenture-Goldfin-Security-Alert-1.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.08.02.Goldfin_Security_Alert/Accenture-Goldfin-Security-Alert-1.pdf",
+      "year": "2018",
+      "report_folder": "2018.08.02.Goldfin_Security_Alert",
+      "size_bytes": 1335150,
+      "publisher_hint": "",
+      "index_published": "2018-08-02",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.08.02.Gorgon_Group/The Gorgon Group Slithering Between Nation State and Cybercrime.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.08.02.Gorgon_Group/The%20Gorgon%20Group%20Slithering%20Between%20Nation%20State%20and%20Cybercrime.pdf",
+      "year": "2018",
+      "report_folder": "2018.08.02.Gorgon_Group",
+      "size_bytes": 1354031,
+      "publisher_hint": "",
+      "index_published": "2018-08-02",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.08.09.north-koreas-malware-families/examining-code-reuse-reveals-undiscovered-links-among-north-koreas-malware-families.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.08.09.north-koreas-malware-families/examining-code-reuse-reveals-undiscovered-links-among-north-koreas-malware-families.pdf",
+      "year": "2018",
+      "report_folder": "2018.08.09.north-koreas-malware-families",
+      "size_bytes": 2499074,
+      "publisher_hint": "",
+      "index_published": "2018-08-09",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.08.21.Operation_Red_Signature/supply-chain-attack-operation-red-signature-targets-south-korean-organizations.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.08.21.Operation_Red_Signature/supply-chain-attack-operation-red-signature-targets-south-korean-organizations.pdf",
+      "year": "2018",
+      "report_folder": "2018.08.21.Operation_Red_Signature",
+      "size_bytes": 775396,
+      "publisher_hint": "",
+      "index_published": "2018-08-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.09.07.Domestic_Kitten/Domestic Kitten An Iranian Surveillance Operation.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.09.07.Domestic_Kitten/Domestic%20Kitten%20An%20Iranian%20Surveillance%20Operation.pdf",
+      "year": "2018",
+      "report_folder": "2018.09.07.Domestic_Kitten",
+      "size_bytes": 1878403,
+      "publisher_hint": "",
+      "index_published": "2018-09-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.09.13.APT10_Targeting_Japanese/APT10 Targeting Japanese Corporations Using Updated TTPs.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.09.13.APT10_Targeting_Japanese/APT10%20Targeting%20Japanese%20Corporations%20Using%20Updated%20TTPs.pdf",
+      "year": "2018",
+      "report_folder": "2018.09.13.APT10_Targeting_Japanese",
+      "size_bytes": 1366581,
+      "publisher_hint": "",
+      "index_published": "2018-09-13",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.09.20.Poison_Trumpet_Vine_Operation/CN_APT-C-01.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.09.20.Poison_Trumpet_Vine_Operation/CN_APT-C-01.pdf",
+      "year": "2018",
+      "report_folder": "2018.09.20.Poison_Trumpet_Vine_Operation",
+      "size_bytes": 6113368,
+      "publisher_hint": "",
+      "index_published": "2018-09-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.10.17.OceanLotus_SpyRATs/SpyRATsofOceanLotusMalwareWhitePaper.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.10.17.OceanLotus_SpyRATs/SpyRATsofOceanLotusMalwareWhitePaper.pdf",
+      "year": "2018",
+      "report_folder": "2018.10.17.OceanLotus_SpyRATs",
+      "size_bytes": 4249179,
+      "publisher_hint": "",
+      "index_published": "2018-10-17",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.10.18.Operation_Oceansalt/rp-operation-oceansalt.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.10.18.Operation_Oceansalt/rp-operation-oceansalt.pdf",
+      "year": "2018",
+      "report_folder": "2018.10.18.Operation_Oceansalt",
+      "size_bytes": 5048278,
+      "publisher_hint": "",
+      "index_published": "2018-10-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.11.19.APT29_Phishing/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.11.19.APT29_Phishing/not-so-cozy-an-uncomfortable-examination-of-a-suspected-apt29-phishing-campaign.pdf",
+      "year": "2018",
+      "report_folder": "2018.11.19.APT29_Phishing",
+      "size_bytes": 1008049,
+      "publisher_hint": "",
+      "index_published": "2018-11-19",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.12.12.Donot_Group/Donot_Group.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.12.12.Donot_Group/Donot_Group.pdf",
+      "year": "2018",
+      "report_folder": "2018.12.12.Donot_Group",
+      "size_bytes": 1593909,
+      "publisher_hint": "",
+      "index_published": "2018-12-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2018/2018.12.18.ursnif-emotet-dridex-and-bitpaymer-gangs/URSNIF, EMOTET, DRIDEX and BitPaymer Gangs Linked by a Similar Loader.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2018/2018.12.18.ursnif-emotet-dridex-and-bitpaymer-gangs/URSNIF%2C%20EMOTET%2C%20DRIDEX%20and%20BitPaymer%20Gangs%20Linked%20by%20a%20Similar%20Loader.pdf",
+      "year": "2018",
+      "report_folder": "2018.12.18.ursnif-emotet-dridex-and-bitpaymer-gangs",
+      "size_bytes": 1738918,
+      "publisher_hint": "",
+      "index_published": "2018-12-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.01.18.DarkHydrus/DarkHydrus delivers new Trojan that can use Google Drive for C2 communications.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.01.18.DarkHydrus/DarkHydrus%20delivers%20new%20Trojan%20that%20can%20use%20Google%20Drive%20for%20C2%20communications.pdf",
+      "year": "2019",
+      "report_folder": "2019.01.18.DarkHydrus",
+      "size_bytes": 610421,
+      "publisher_hint": "",
+      "index_published": "2019-01-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.01.18.WIRTE_Group_attacking_the_Middle_East/[Lab52] WIRTE Group attacking the Middle East.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.01.18.WIRTE_Group_attacking_the_Middle_East/%5BLab52%5D%20WIRTE%20Group%20attacking%20the%20Middle%20East.pdf",
+      "year": "2019",
+      "report_folder": "2019.01.18.WIRTE_Group_attacking_the_Middle_East",
+      "size_bytes": 5796154,
+      "publisher_hint": "",
+      "index_published": "2019-01-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.02.05.China_India_APT_shared/Analyzing Digital Quartermasters in Asia  Do Chinese and Indian APTs Have a Shared Supply Chain.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.02.05.China_India_APT_shared/Analyzing%20Digital%20Quartermasters%20in%20Asia%20%20Do%20Chinese%20and%20Indian%20APTs%20Have%20a%20Shared%20Supply%20Chain.pdf",
+      "year": "2019",
+      "report_folder": "2019.02.05.China_India_APT_shared",
+      "size_bytes": 946960,
+      "publisher_hint": "",
+      "index_published": "2019-02-05",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.03.25.Operation_ShadowHammer/Operation ShadowHammer.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.03.25.Operation_ShadowHammer/Operation%20ShadowHammer.pdf",
+      "year": "2019",
+      "report_folder": "2019.03.25.Operation_ShadowHammer",
+      "size_bytes": 177076,
+      "publisher_hint": "",
+      "index_published": "2019-04-23",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.04.23.Operation_ShadowHammer/Operation ShadowHammer.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.04.23.Operation_ShadowHammer/Operation%20ShadowHammer.pdf",
+      "year": "2019",
+      "report_folder": "2019.04.23.Operation_ShadowHammer",
+      "size_bytes": 1517612,
+      "publisher_hint": "",
+      "index_published": "2019-04-23",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.05.03.ZooPark/ZooPark_for_public_final_edited.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.05.03.ZooPark/ZooPark_for_public_final_edited.pdf",
+      "year": "2019",
+      "report_folder": "2019.05.03.ZooPark",
+      "size_bytes": 1963845,
+      "publisher_hint": "",
+      "index_published": "2019-05-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.05.07.Turla_LightNeuron/ESET-LightNeuron.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.05.07.Turla_LightNeuron/ESET-LightNeuron.pdf",
+      "year": "2019",
+      "report_folder": "2019.05.07.Turla_LightNeuron",
+      "size_bytes": 2124803,
+      "publisher_hint": "",
+      "index_published": "2019-05-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.05.18.Operation_BlackLion/Operation_BlackLion_CN_Version.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.05.18.Operation_BlackLion/Operation_BlackLion_CN_Version.pdf",
+      "year": "2019",
+      "report_folder": "2019.05.18.Operation_BlackLion",
+      "size_bytes": 4123239,
+      "publisher_hint": "",
+      "index_published": "2019-05-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.05.27.APT-C-38/APT-C-38_cn.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.05.27.APT-C-38/APT-C-38_cn.pdf",
+      "year": "2019",
+      "report_folder": "2019.05.27.APT-C-38",
+      "size_bytes": 1714495,
+      "publisher_hint": "",
+      "index_published": "2019-05-27",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.05.27.APT-C-38/APT-C-38_en_google_translate.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.05.27.APT-C-38/APT-C-38_en_google_translate.pdf",
+      "year": "2019",
+      "report_folder": "2019.05.27.APT-C-38",
+      "size_bytes": 1190981,
+      "publisher_hint": "",
+      "index_published": "2019-05-27",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.05.30.10_Years_ATM_Malware/Talos Blog __ Cisco Talos Intelligence Group - Comprehensive Threat Intelligence_ 10 years of virtual dynamite_ A high-level retrospective of ATM malware.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.05.30.10_Years_ATM_Malware/Talos%20Blog%20__%20Cisco%20Talos%20Intelligence%20Group%20-%20Comprehensive%20Threat%20Intelligence_%2010%20years%20of%20virtual%20dynamite_%20A%20high-level%20retrospective%20of%20ATM%20malware.pdf",
+      "year": "2019",
+      "report_folder": "2019.05.30.10_Years_ATM_Malware",
+      "size_bytes": 1166535,
+      "publisher_hint": "",
+      "index_published": "2019-05-30",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.06.12.Threat_Group_Cards/Threat Group Cards.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.06.12.Threat_Group_Cards/Threat%20Group%20Cards.pdf",
+      "year": "2019",
+      "report_folder": "2019.06.12.Threat_Group_Cards",
+      "size_bytes": 2436486,
+      "publisher_hint": "",
+      "index_published": "2019-06-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.06.20.OceanLotus_New_Approaches/OceanLotus.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.06.20.OceanLotus_New_Approaches/OceanLotus.pdf",
+      "year": "2019",
+      "report_folder": "2019.06.20.OceanLotus_New_Approaches",
+      "size_bytes": 1498366,
+      "publisher_hint": "",
+      "index_published": "2019-06-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.06.21.Waterbug/Waterbug_ Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.06.21.Waterbug/Waterbug_%20Espionage%20Group%20Rolls%20Out%20Brand-New%20Toolset%20in%20Attacks%20Against%20Governments.pdf",
+      "year": "2019",
+      "report_folder": "2019.06.21.Waterbug",
+      "size_bytes": 317293,
+      "publisher_hint": "",
+      "index_published": "2019-06-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.06.26.Iranian_to_Saudi/cta-2019-0626.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.06.26.Iranian_to_Saudi/cta-2019-0626.pdf",
+      "year": "2019",
+      "report_folder": "2019.06.26.Iranian_to_Saudi",
+      "size_bytes": 2468541,
+      "publisher_hint": "",
+      "index_published": "2019-06-26",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.06.27.ShadowGate_Returns/ShadowGate Returns to Worldwide Operations With Evolved Greenflash Sundown Exploit Kit.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.06.27.ShadowGate_Returns/ShadowGate%20Returns%20to%20Worldwide%20Operations%20With%20Evolved%20Greenflash%20Sundown%20Exploit%20Kit.pdf",
+      "year": "2019",
+      "report_folder": "2019.06.27.ShadowGate_Returns",
+      "size_bytes": 2378275,
+      "publisher_hint": "",
+      "index_published": "2019-06-27",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.07.09.SeaTurtle_swimming/Sea Turtle keeps on swimming, finds new victims, DNS hijacking techniques.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.07.09.SeaTurtle_swimming/Sea%20Turtle%20keeps%20on%20swimming%2C%20finds%20new%20victims%2C%20DNS%20hijacking%20techniques.pdf",
+      "year": "2019",
+      "report_folder": "2019.07.09.SeaTurtle_swimming",
+      "size_bytes": 350539,
+      "publisher_hint": "",
+      "index_published": "2019-07-09",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.07.16.SLUB/SLUB Gets Rid of GitHub, Intensifies Slack Use.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.07.16.SLUB/SLUB%20Gets%20Rid%20of%20GitHub%2C%20Intensifies%20Slack%20Use.pdf",
+      "year": "2019",
+      "report_folder": "2019.07.16.SLUB",
+      "size_bytes": 479532,
+      "publisher_hint": "",
+      "index_published": "2019-07-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.07.18.APT34_Hard_Pass/Hard Pass_ Declining APT34’s Invite to Join Their Professional Network.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.07.18.APT34_Hard_Pass/Hard%20Pass_%20Declining%20APT34%E2%80%99s%20Invite%20to%20Join%20Their%20Professional%20Network.pdf",
+      "year": "2019",
+      "report_folder": "2019.07.18.APT34_Hard_Pass",
+      "size_bytes": 813217,
+      "publisher_hint": "",
+      "index_published": "2019-07-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.07.24.Operation_LagTime_IT/Chinese_APT_Operation_LagTime_IT.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.07.24.Operation_LagTime_IT/Chinese_APT_Operation_LagTime_IT.pdf",
+      "year": "2019",
+      "report_folder": "2019.07.24.Operation_LagTime_IT",
+      "size_bytes": 473324,
+      "publisher_hint": "",
+      "index_published": "2019-07-24",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.08.01.Mobile_OceanLotus/Analysis of the Attack of Mobile Devices by OceanLotus.PDF",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.08.01.Mobile_OceanLotus/Analysis%20of%20the%20Attack%20of%20Mobile%20Devices%20by%20OceanLotus.PDF",
+      "year": "2019",
+      "report_folder": "2019.08.01.Mobile_OceanLotus",
+      "size_bytes": 395275,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.08.05.Trickbot_Obfuscated_JS/Latest Trickbot Campaign Delivered via Highly Obfuscated JS File .pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.08.05.Trickbot_Obfuscated_JS/Latest%20Trickbot%20Campaign%20Delivered%20via%20Highly%20Obfuscated%20JS%20File%20.pdf",
+      "year": "2019",
+      "report_folder": "2019.08.05.Trickbot_Obfuscated_JS",
+      "size_bytes": 1210827,
+      "publisher_hint": "",
+      "index_published": "2019-08-05",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.08.07.APT41/blog_APT41.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.08.07.APT41/blog_APT41.pdf",
+      "year": "2019",
+      "report_folder": "2019.08.07.APT41",
+      "size_bytes": 443008,
+      "publisher_hint": "",
+      "index_published": "2019-08-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.08.07.APT41/report_APT41.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.08.07.APT41/report_APT41.pdf",
+      "year": "2019",
+      "report_folder": "2019.08.07.APT41",
+      "size_bytes": 12745776,
+      "publisher_hint": "",
+      "index_published": "2019-08-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.08.12.Cloud_Atlas_activity/Recent Cloud Atlas activity _ Securelist.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.08.12.Cloud_Atlas_activity/Recent%20Cloud%20Atlas%20activity%20_%20Securelist.pdf",
+      "year": "2019",
+      "report_folder": "2019.08.12.Cloud_Atlas_activity",
+      "size_bytes": 409419,
+      "publisher_hint": "",
+      "index_published": "2019-08-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.08.21.Gamaredon_Group/The Gamaredon Group_ A TTP Profile Analysis.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.08.21.Gamaredon_Group/The%20Gamaredon%20Group_%20A%20TTP%20Profile%20Analysis.pdf",
+      "year": "2019",
+      "report_folder": "2019.08.21.Gamaredon_Group",
+      "size_bytes": 3736421,
+      "publisher_hint": "",
+      "index_published": "2019-08-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.08.21.Silence_2.0/silence_2.0.going_global.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.08.21.Silence_2.0/silence_2.0.going_global.pdf",
+      "year": "2019",
+      "report_folder": "2019.08.21.Silence_2.0",
+      "size_bytes": 7896224,
+      "publisher_hint": "",
+      "index_published": "2019-08-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.08.27.TA505_Again/TA505 At It Again_ Variety is the Spice of ServHelper and FlawedAmmyy.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.08.27.TA505_Again/TA505%20At%20It%20Again_%20Variety%20is%20the%20Spice%20of%20ServHelper%20and%20FlawedAmmyy.pdf",
+      "year": "2019",
+      "report_folder": "2019.08.27.TA505_Again",
+      "size_bytes": 934810,
+      "publisher_hint": "",
+      "index_published": "2019-08-27",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.09.24_Russia_APT_Ecosystem/Mapping the connections inside Russia APT Ecosystem.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.09.24_Russia_APT_Ecosystem/Mapping%20the%20connections%20inside%20Russia%20APT%20Ecosystem.pdf",
+      "year": "2019",
+      "report_folder": "2019.09.24_Russia_APT_Ecosystem",
+      "size_bytes": 1147519,
+      "publisher_hint": "",
+      "index_published": "2019-09-24",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.09.30_HELO_Winnti/HELO Winnti_ Attack or Scan.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.09.30_HELO_Winnti/HELO%20Winnti_%20Attack%20or%20Scan.pdf",
+      "year": "2019",
+      "report_folder": "2019.09.30_HELO_Winnti",
+      "size_bytes": 653654,
+      "publisher_hint": "",
+      "index_published": "2019-09-30",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.10.04.GEOST_BOTNET/VB2019-Garcia-etal.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.10.04.GEOST_BOTNET/VB2019-Garcia-etal.pdf",
+      "year": "2019",
+      "report_folder": "2019.10.04.GEOST_BOTNET",
+      "size_bytes": 1096175,
+      "publisher_hint": "",
+      "index_published": "2019-10-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.10.09_FIN6_Magecart/FIN6 Compromised E-commerce Platform via Magecart to Inject Credit Card Skimmers Into Thousands of Online Shops.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.10.09_FIN6_Magecart/FIN6%20Compromised%20E-commerce%20Platform%20via%20Magecart%20to%20Inject%20Credit%20Card%20Skimmers%20Into%20Thousands%20of%20Online%20Shops.pdf",
+      "year": "2019",
+      "report_folder": "2019.10.09_FIN6_Magecart",
+      "size_bytes": 2695657,
+      "publisher_hint": "",
+      "index_published": "2019-10-09",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.10.10.Winnti_Group/ESET_Winnti.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.10.10.Winnti_Group/ESET_Winnti.pdf",
+      "year": "2019",
+      "report_folder": "2019.10.10.Winnti_Group",
+      "size_bytes": 993726,
+      "publisher_hint": "",
+      "index_published": "2019-10-10",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.10.21_Geost_botnet/VB2019-Garcia-etal.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.10.21_Geost_botnet/VB2019-Garcia-etal.pdf",
+      "year": "2019",
+      "report_folder": "2019.10.21_Geost_botnet",
+      "size_bytes": 1356146,
+      "publisher_hint": "",
+      "index_published": "2019-10-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.10.31.Calypso_APT/calypso-apt-2019-eng.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.10.31.Calypso_APT/calypso-apt-2019-eng.pdf",
+      "year": "2019",
+      "report_folder": "2019.10.31.Calypso_APT",
+      "size_bytes": 5480623,
+      "publisher_hint": "",
+      "index_published": "2019-10-31",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.11.04.Higaisa_APT/(cn)_higaisa_apt_report.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.11.04.Higaisa_APT/%28cn%29_higaisa_apt_report.pdf",
+      "year": "2019",
+      "report_folder": "2019.11.04.Higaisa_APT",
+      "size_bytes": 5821443,
+      "publisher_hint": "",
+      "index_published": "2019-11-04",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.11.05.LAZARUS_GAZE/LAZARUS_GAZE_APT38.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.11.05.LAZARUS_GAZE/LAZARUS_GAZE_APT38.pdf",
+      "year": "2019",
+      "report_folder": "2019.11.05.LAZARUS_GAZE",
+      "size_bytes": 845922,
+      "publisher_hint": "",
+      "index_published": "2019-11-05",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.11.13.APT33_Extreme＿Narrow_Targeting/More than a Dozen Obfuscated APT33 Botnets Used for Extreme Narrow Targeting.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.11.13.APT33_Extreme%EF%BC%BFNarrow_Targeting/More%20than%20a%20Dozen%20Obfuscated%20APT33%20Botnets%20Used%20for%20Extreme%20Narrow%20Targeting.pdf",
+      "year": "2019",
+      "report_folder": "2019.11.13.APT33_Extreme＿Narrow_Targeting",
+      "size_bytes": 583407,
+      "publisher_hint": "",
+      "index_published": "2019-11-13",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.11.29.Operation_ENDTRADE/Operation-ENDTRADE-TICK-s-Multi-Stage-Backdoors-for-Attacking-Industries-and-Stealing-Classified-Data.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.11.29.Operation_ENDTRADE/Operation-ENDTRADE-TICK-s-Multi-Stage-Backdoors-for-Attacking-Industries-and-Stealing-Classified-Data.pdf",
+      "year": "2019",
+      "report_folder": "2019.11.29.Operation_ENDTRADE",
+      "size_bytes": 4655713,
+      "publisher_hint": "",
+      "index_published": "2019-11-29",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.12.04.KurdishCoder_Campaign/Obfuscation Tools Found in the Capesand Exploit Kit Possibly Used in “KurdishCoder” Campaign.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.12.04.KurdishCoder_Campaign/Obfuscation%20Tools%20Found%20in%20the%20Capesand%20Exploit%20Kit%20Possibly%20Used%20in%20%E2%80%9CKurdishCoder%E2%80%9D%20Campaign.pdf",
+      "year": "2019",
+      "report_folder": "2019.12.04.KurdishCoder_Campaign",
+      "size_bytes": 965946,
+      "publisher_hint": "",
+      "index_published": "2019-12-04",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.12.10_TrickBot_Planeswalker/sentinel-one-sentine-6.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.12.10_TrickBot_Planeswalker/sentinel-one-sentine-6.pdf",
+      "year": "2019",
+      "report_folder": "2019.12.10_TrickBot_Planeswalker",
+      "size_bytes": 8225419,
+      "publisher_hint": "",
+      "index_published": "2019-12-10",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.12.11.Waterbear_Back/Waterbear is Back, Uses API Hooking to Evade Security Product Detection.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.12.11.Waterbear_Back/Waterbear%20is%20Back%2C%20Uses%20API%20Hooking%20to%20Evade%20Security%20Product%20Detection.pdf",
+      "year": "2019",
+      "report_folder": "2019.12.11.Waterbear_Back",
+      "size_bytes": 3953662,
+      "publisher_hint": "",
+      "index_published": "2019-12-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2019/2019.12.16.MyKings/sophoslabs-uncut-mykings-report.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2019/2019.12.16.MyKings/sophoslabs-uncut-mykings-report.pdf",
+      "year": "2019",
+      "report_folder": "2019.12.16.MyKings",
+      "size_bytes": 3073176,
+      "publisher_hint": "",
+      "index_published": "2019-12-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.01.01.SideWinder_APT/[CN]_SideWinder_APT.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.01.01.SideWinder_APT/%5BCN%5D_SideWinder_APT.pdf",
+      "year": "2020",
+      "report_folder": "2020.01.01.SideWinder_APT",
+      "size_bytes": 5042819,
+      "publisher_hint": "",
+      "index_published": "2020-01-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.01.06.SideWinder_Google_Play/First Active Attack Exploiting CVE-2019-2215 Found on Google Play, Linked to SideWinder APT Group.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.01.06.SideWinder_Google_Play/First%20Active%20Attack%20Exploiting%20CVE-2019-2215%20Found%20on%20Google%20Play%2C%20Linked%20to%20SideWinder%20APT%20Group.pdf",
+      "year": "2020",
+      "report_folder": "2020.01.06.SideWinder_Google_Play",
+      "size_bytes": 1862822,
+      "publisher_hint": "",
+      "index_published": "2020-01-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.01.07_Iranian_Cyber_Response/Iranian Cyber Response to Death of IRGC Head Would Likely Use Reported TTPs and Previous Access.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.01.07_Iranian_Cyber_Response/Iranian%20Cyber%20Response%20to%20Death%20of%20IRGC%20Head%20Would%20Likely%20Use%20Reported%20TTPs%20and%20Previous%20Access.pdf",
+      "year": "2020",
+      "report_folder": "2020.01.07_Iranian_Cyber_Response",
+      "size_bytes": 209281,
+      "publisher_hint": "",
+      "index_published": "2020-01-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.01.09.NA-EL-Threat-Perspective/NA-EL-Threat-Perspective-2019.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.01.09.NA-EL-Threat-Perspective/NA-EL-Threat-Perspective-2019.pdf",
+      "year": "2020",
+      "report_folder": "2020.01.09.NA-EL-Threat-Perspective",
+      "size_bytes": 2723763,
+      "publisher_hint": "",
+      "index_published": "2020-01-09",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.01.xx.ZeroCleare_Wiper/200122_IBM_X-Force_IRIS_ZeroCleare_Paper.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.01.xx.ZeroCleare_Wiper/200122_IBM_X-Force_IRIS_ZeroCleare_Paper.pdf",
+      "year": "2020",
+      "report_folder": "2020.01.xx.ZeroCleare_Wiper",
+      "size_bytes": 554650,
+      "publisher_hint": "",
+      "index_published": "2020-01-22",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.02.10_Outlaw_Updates/Outlaw Updates Kit to Kill Older Miner Versions, Targets More Systems.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.02.10_Outlaw_Updates/Outlaw%20Updates%20Kit%20to%20Kill%20Older%20Miner%20Versions%2C%20Targets%20More%20Systems.pdf",
+      "year": "2020",
+      "report_folder": "2020.02.10_Outlaw_Updates",
+      "size_bytes": 2441325,
+      "publisher_hint": "",
+      "index_published": "2020-02-10",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.02.18_Operation_DRBControl/wp-uncovering-DRBcontrol.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.02.18_Operation_DRBControl/wp-uncovering-DRBcontrol.pdf",
+      "year": "2020",
+      "report_folder": "2020.02.18_Operation_DRBControl",
+      "size_bytes": 3222807,
+      "publisher_hint": "",
+      "index_published": "2020-02-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.02.19_The_Lazarus_Constellation/Lexfo-WhitePaper-The_Lazarus_Constellation.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.02.19_The_Lazarus_Constellation/Lexfo-WhitePaper-The_Lazarus_Constellation.pdf",
+      "year": "2020",
+      "report_folder": "2020.02.19_The_Lazarus_Constellation",
+      "size_bytes": 13337124,
+      "publisher_hint": "",
+      "index_published": "2020-02-19",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.02.28_Nortrom_Lion_APT/Nortrom_Lion_APT_CN_version.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.02.28_Nortrom_Lion_APT/Nortrom_Lion_APT_CN_version.pdf",
+      "year": "2020",
+      "report_folder": "2020.02.28_Nortrom_Lion_APT",
+      "size_bytes": 3496581,
+      "publisher_hint": "",
+      "index_published": "2020-02-28",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.03.05_Dissecting_Geost/Dissecting Geost_ Exposing the Anatomy of the Android Trojan Targeting Russian Banks - TrendLabs Security Intelligence Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.03.05_Dissecting_Geost/Dissecting%20Geost_%20Exposing%20the%20Anatomy%20of%20the%20Android%20Trojan%20Targeting%20Russian%20Banks%20-%20TrendLabs%20Security%20Intelligence%20Blog.pdf",
+      "year": "2020",
+      "report_folder": "2020.03.05_Dissecting_Geost",
+      "size_bytes": 3457664,
+      "publisher_hint": "",
+      "index_published": "2020-03-05",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.03.12_Two-tailed_scorpion/Two-tailed_scorpion_CN_version.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.03.12_Two-tailed_scorpion/Two-tailed_scorpion_CN_version.pdf",
+      "year": "2020",
+      "report_folder": "2020.03.12_Two-tailed_scorpion",
+      "size_bytes": 27164205,
+      "publisher_hint": "",
+      "index_published": "2020-03-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.03.12_Vicious_Panda/Vicious Panda_ The COVID Campaign - Check Point Research.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.03.12_Vicious_Panda/Vicious%20Panda_%20The%20COVID%20Campaign%20-%20Check%20Point%20Research.pdf",
+      "year": "2020",
+      "report_folder": "2020.03.12_Vicious_Panda",
+      "size_bytes": 2166148,
+      "publisher_hint": "",
+      "index_published": "2020-03-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.03.19_Probing_Pawn_Storm/wp-pawn-storm-in-2019.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.03.19_Probing_Pawn_Storm/wp-pawn-storm-in-2019.pdf",
+      "year": "2020",
+      "report_folder": "2020.03.19_Probing_Pawn_Storm",
+      "size_bytes": 728050,
+      "publisher_hint": "",
+      "index_published": "2020-03-19",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.03.24_Operation_Poisoned_News/Operation Poisoned News_ Hong Kong Users Targeted With Mobile Malware via Local News Links - TrendLabs Security Intelligence Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.03.24_Operation_Poisoned_News/Operation%20Poisoned%20News_%20Hong%20Kong%20Users%20Targeted%20With%20Mobile%20Malware%20via%20Local%20News%20Links%20-%20TrendLabs%20Security%20Intelligence%20Blog.pdf",
+      "year": "2020",
+      "report_folder": "2020.03.24_Operation_Poisoned_News",
+      "size_bytes": 2875312,
+      "publisher_hint": "",
+      "index_published": "2020-03-24",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.03.30_Spy_Cloud_Operation/Operation Spy Cloud_eng.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.03.30_Spy_Cloud_Operation/Operation%20Spy%20Cloud_eng.pdf",
+      "year": "2020",
+      "report_folder": "2020.03.30_Spy_Cloud_Operation",
+      "size_bytes": 1217106,
+      "publisher_hint": "",
+      "index_published": "2020-03-30",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.04.07_Decade_of_the_RATs/report-bb-decade-of-the-rats.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.04.07_Decade_of_the_RATs/report-bb-decade-of-the-rats.pdf",
+      "year": "2020",
+      "report_folder": "2020.04.07_Decade_of_the_RATs",
+      "size_bytes": 5042044,
+      "publisher_hint": "",
+      "index_published": "2020-04-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.04.16_Exposing_Modular_Adware/Exposing Modular Adware_ How DealPly, IsErIk, and ManageX Persist in Systems - TrendLabs Security Intelligence Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.04.16_Exposing_Modular_Adware/Exposing%20Modular%20Adware_%20How%20DealPly%2C%20IsErIk%2C%20and%20ManageX%20Persist%20in%20Systems%20-%20TrendLabs%20Security%20Intelligence%20Blog.pdf",
+      "year": "2020",
+      "report_folder": "2020.04.16_Exposing_Modular_Adware",
+      "size_bytes": 2815011,
+      "publisher_hint": "",
+      "index_published": "2020-04-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.04.17_Gamaredon_APT_Covid-19/Gamaredon APT Group Use Covid-19 Lure in Campaigns - TrendLabs Security Intelligence Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.04.17_Gamaredon_APT_Covid-19/Gamaredon%20APT%20Group%20Use%20Covid-19%20Lure%20in%20Campaigns%20-%20TrendLabs%20Security%20Intelligence%20Blog.pdf",
+      "year": "2020",
+      "report_folder": "2020.04.17_Gamaredon_APT_Covid-19",
+      "size_bytes": 2398530,
+      "publisher_hint": "",
+      "index_published": "2020-04-17",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.05.06_Leery_Turtle/LeeryTurtleThreatReport_05_20.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.05.06_Leery_Turtle/LeeryTurtleThreatReport_05_20.pdf",
+      "year": "2020",
+      "report_folder": "2020.05.06_Leery_Turtle",
+      "size_bytes": 3592358,
+      "publisher_hint": "",
+      "index_published": "2020-05-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.05.11_BackConfig_South_Asia/Updated BackConfig Malware Targeting Government and Military Organizations in South Asia.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.05.11_BackConfig_South_Asia/Updated%20BackConfig%20Malware%20Targeting%20Government%20and%20Military%20Organizations%20in%20South%20Asia.pdf",
+      "year": "2020",
+      "report_folder": "2020.05.11_BackConfig_South_Asia",
+      "size_bytes": 1624559,
+      "publisher_hint": "",
+      "index_published": "2020-05-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.05.12.Tropic_Trooper_Back/Tropic Trooper’s Back_ USBferry Attack Targets Air-gapped Environments - TrendLabs Security Intelligence Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.05.12.Tropic_Trooper_Back/Tropic%20Trooper%E2%80%99s%20Back_%20USBferry%20Attack%20Targets%20Air-gapped%20Environments%20-%20TrendLabs%20Security%20Intelligence%20Blog.pdf",
+      "year": "2020",
+      "report_folder": "2020.05.12.Tropic_Trooper_Back",
+      "size_bytes": 3438724,
+      "publisher_hint": "",
+      "index_published": "2020-05-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.05.14.Mikroceen/Mikroceen_ Spying backdoor leveraged in high‑profile networks in Central Asia _ WeLiveSecurity.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.05.14.Mikroceen/Mikroceen_%20Spying%20backdoor%20leveraged%20in%20high%E2%80%91profile%20networks%20in%20Central%20Asia%20_%20WeLiveSecurity.pdf",
+      "year": "2020",
+      "report_folder": "2020.05.14.Mikroceen",
+      "size_bytes": 782188,
+      "publisher_hint": "",
+      "index_published": "2020-05-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.05.21.APT15_Codebase_2020/Intezer - The Evolution of APT15's Codebase 2020.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.05.21.APT15_Codebase_2020/Intezer%20-%20The%20Evolution%20of%20APT15%27s%20Codebase%202020.pdf",
+      "year": "2020",
+      "report_folder": "2020.05.21.APT15_Codebase_2020",
+      "size_bytes": 1595305,
+      "publisher_hint": "",
+      "index_published": "2020-05-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.05.21.Iranian_Chafer_APT/Bitdefender-Whitepaper-Chafer-creat4491-en-EN-interactive.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.05.21.Iranian_Chafer_APT/Bitdefender-Whitepaper-Chafer-creat4491-en-EN-interactive.pdf",
+      "year": "2020",
+      "report_folder": "2020.05.21.Iranian_Chafer_APT",
+      "size_bytes": 6593196,
+      "publisher_hint": "",
+      "index_published": "2020-05-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.05.29_russian-cyber-attack-campaigns-and-actors/Russian Cyber Attack Campaigns and Actors - Threat Research.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.05.29_russian-cyber-attack-campaigns-and-actors/Russian%20Cyber%20Attack%20Campaigns%20and%20Actors%20-%20Threat%20Research.pdf",
+      "year": "2020",
+      "report_folder": "2020.05.29_russian-cyber-attack-campaigns-and-actors",
+      "size_bytes": 5015720,
+      "publisher_hint": "",
+      "index_published": "2020-05-29",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.06.03.Higaisa_APT/New LNK attack tied to Higaisa APT discovered - Malwarebytes Labs _ Malwarebytes Labs.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.06.03.Higaisa_APT/New%20LNK%20attack%20tied%20to%20Higaisa%20APT%20discovered%20-%20Malwarebytes%20Labs%20_%20Malwarebytes%20Labs.pdf",
+      "year": "2020",
+      "report_folder": "2020.06.03.Higaisa_APT",
+      "size_bytes": 1486697,
+      "publisher_hint": "",
+      "index_published": "2020-06-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.06.11.Earth_Empusa/New Android Spyware ActionSpy Revealed via Phishing Attacks from Earth Empusa - TrendLabs Security Intelligence Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.06.11.Earth_Empusa/New%20Android%20Spyware%20ActionSpy%20Revealed%20via%20Phishing%20Attacks%20from%20Earth%20Empusa%20-%20TrendLabs%20Security%20Intelligence%20Blog.pdf",
+      "year": "2020",
+      "report_folder": "2020.06.11.Earth_Empusa",
+      "size_bytes": 3474219,
+      "publisher_hint": "",
+      "index_published": "2020-06-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.06.16.Cobalt_Update/Cobalt tactics and tools update.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.06.16.Cobalt_Update/Cobalt%20tactics%20and%20tools%20update.pdf",
+      "year": "2020",
+      "report_folder": "2020.06.16.Cobalt_Update",
+      "size_bytes": 2540561,
+      "publisher_hint": "",
+      "index_published": "2020-06-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.06.17.malleable-c2-feature_APT/Multi-stage APT attack drops Cobalt Strike using Malleable C2 feature - Malwarebytes Labs _ Malwarebytes Labs.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.06.17.malleable-c2-feature_APT/Multi-stage%20APT%20attack%20drops%20Cobalt%20Strike%20using%20Malleable%20C2%20feature%20-%20Malwarebytes%20Labs%20_%20Malwarebytes%20Labs.pdf",
+      "year": "2020",
+      "report_folder": "2020.06.17.malleable-c2-feature_APT",
+      "size_bytes": 2066818,
+      "publisher_hint": "",
+      "index_published": "2020-06-17",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.06.18.InvisiMole_hidden_arsenal/ESET_InvisiMole.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.06.18.InvisiMole_hidden_arsenal/ESET_InvisiMole.pdf",
+      "year": "2020",
+      "report_folder": "2020.06.18.InvisiMole_hidden_arsenal",
+      "size_bytes": 2489298,
+      "publisher_hint": "",
+      "index_published": "2020-06-18",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.06.25.Malaysian-focused-APT_campaign/Leviathan APT campaign in 2020 Malaysian political crisis _ Elastic Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.06.25.Malaysian-focused-APT_campaign/Leviathan%20APT%20campaign%20in%202020%20Malaysian%20political%20crisis%20_%20Elastic%20Blog.pdf",
+      "year": "2020",
+      "report_folder": "2020.06.25.Malaysian-focused-APT_campaign",
+      "size_bytes": 1517205,
+      "publisher_hint": "",
+      "index_published": "2020-06-25",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.06.30_StrongPity_APT/Bitdefender-Whitepaper-StrongPity-APT.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.06.30_StrongPity_APT/Bitdefender-Whitepaper-StrongPity-APT.pdf",
+      "year": "2020",
+      "report_folder": "2020.06.30_StrongPity_APT",
+      "size_bytes": 5426737,
+      "publisher_hint": "",
+      "index_published": "2020-06-30",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.07.01.Mobile_APT_Uyghurs/lookout-uyghur-malware-tr-us.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.07.01.Mobile_APT_Uyghurs/lookout-uyghur-malware-tr-us.pdf",
+      "year": "2020",
+      "report_folder": "2020.07.01.Mobile_APT_Uyghurs",
+      "size_bytes": 8474618,
+      "publisher_hint": "",
+      "index_published": "2020-07-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.07.08.TA410/TA410.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.07.08.TA410/TA410.pdf",
+      "year": "2020",
+      "report_folder": "2020.07.08.TA410",
+      "size_bytes": 3136185,
+      "publisher_hint": "",
+      "index_published": "2020-07-08",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.07.12_SideWinder_2020_H1/SideWinder_APT_2020_H1_CN_version.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.07.12_SideWinder_2020_H1/SideWinder_APT_2020_H1_CN_version.pdf",
+      "year": "2020",
+      "report_folder": "2020.07.12_SideWinder_2020_H1",
+      "size_bytes": 4949831,
+      "publisher_hint": "",
+      "index_published": "2020-07-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.07.20.APT_attacks_Kazakhstan_Kyrgyzstan/Study_of_the_APT_attacks_on_state_institutions_in_Kazakhstan_and_Kyrgyzstan_en.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.07.20.APT_attacks_Kazakhstan_Kyrgyzstan/Study_of_the_APT_attacks_on_state_institutions_in_Kazakhstan_and_Kyrgyzstan_en.pdf",
+      "year": "2020",
+      "report_folder": "2020.07.20.APT_attacks_Kazakhstan_Kyrgyzstan",
+      "size_bytes": 2979570,
+      "publisher_hint": "",
+      "index_published": "2020-07-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.08.13.Russian_GRU_85th_GTsSS/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.08.13.Russian_GRU_85th_GTsSS/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF",
+      "year": "2020",
+      "report_folder": "2020.08.13.Russian_GRU_85th_GTsSS",
+      "size_bytes": 2105487,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.08.20_APT_Hackers_for_Hire/Bitdefender-PR-Whitepaper-APTHackers-creat4740-en-EN-GenericUse.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.08.20_APT_Hackers_for_Hire/Bitdefender-PR-Whitepaper-APTHackers-creat4740-en-EN-GenericUse.pdf",
+      "year": "2020",
+      "report_folder": "2020.08.20_APT_Hackers_for_Hire",
+      "size_bytes": 5026595,
+      "publisher_hint": "",
+      "index_published": "2020-08-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.08.20_DEVELOPMENT_TA505/CERTFR-2020-CTI-009.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.08.20_DEVELOPMENT_TA505/CERTFR-2020-CTI-009.pdf",
+      "year": "2020",
+      "report_folder": "2020.08.20_DEVELOPMENT_TA505",
+      "size_bytes": 1505811,
+      "publisher_hint": "",
+      "index_published": "2020-08-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.08.27.Kittens_Are_Back/The-Kittens-are-Back-in-Town-3.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.08.27.Kittens_Are_Back/The-Kittens-are-Back-in-Town-3.pdf",
+      "year": "2020",
+      "report_folder": "2020.08.27.Kittens_Are_Back",
+      "size_bytes": 1299698,
+      "publisher_hint": "",
+      "index_published": "2020-08-27",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.08.28_Transparent_Tribe/Transparent Tribe_ Evolution analysis, part 2 _ Securelist.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.08.28_Transparent_Tribe/Transparent%20Tribe_%20Evolution%20analysis%2C%20part%202%20_%20Securelist.pdf",
+      "year": "2020",
+      "report_folder": "2020.08.28_Transparent_Tribe",
+      "size_bytes": 360250,
+      "publisher_hint": "",
+      "index_published": "2020-08-28",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.09.01.Chinese_APT_TA413/Chinese APT TA413 Resumes Targeting of Tibet Following COVID-19 Themed Economic Espionage Campaign Delivering Sepulcher Malware Targeting Europe _ Proofpoint US.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.09.01.Chinese_APT_TA413/Chinese%20APT%20TA413%20Resumes%20Targeting%20of%20Tibet%20Following%20COVID-19%20Themed%20Economic%20Espionage%20Campaign%20Delivering%20Sepulcher%20Malware%20Targeting%20Europe%20_%20Proofpoint%20US.pdf",
+      "year": "2020",
+      "report_folder": "2020.09.01.Chinese_APT_TA413",
+      "size_bytes": 1958238,
+      "publisher_hint": "",
+      "index_published": "2020-09-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.09.17.Operation_Tibbar/69da886eecc7087e9dac2d3ea4c66ba8.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.09.17.Operation_Tibbar/69da886eecc7087e9dac2d3ea4c66ba8.pdf",
+      "year": "2020",
+      "report_folder": "2020.09.17.Operation_Tibbar",
+      "size_bytes": 3806968,
+      "publisher_hint": "",
+      "index_published": "2020-09-17",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.09.21.coverage-strikes-back-cobalt-strike-paper/Talos_Cobalt_Strike.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.09.21.coverage-strikes-back-cobalt-strike-paper/Talos_Cobalt_Strike.pdf",
+      "year": "2020",
+      "report_folder": "2020.09.21.coverage-strikes-back-cobalt-strike-paper",
+      "size_bytes": 3264352,
+      "publisher_hint": "",
+      "index_published": "2020-09-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.09.29_ShadowPad_-_new_activity_from_the_Winnti_group/2020.09.29_ShadowPad - new activity from the Winnti group.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.09.29_ShadowPad_-_new_activity_from_the_Winnti_group/2020.09.29_ShadowPad%20-%20new%20activity%20from%20the%20Winnti%20group.pdf",
+      "year": "2020",
+      "report_folder": "2020.09.29_ShadowPad_-_new_activity_from_the_Winnti_group",
+      "size_bytes": 7577883,
+      "publisher_hint": "",
+      "index_published": "2020-09-29",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.10.07.Massive_Hack-For-Hire_Group/report-spark-bahamut.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.10.07.Massive_Hack-For-Hire_Group/report-spark-bahamut.pdf",
+      "year": "2020",
+      "report_folder": "2020.10.07.Massive_Hack-For-Hire_Group",
+      "size_bytes": 18018295,
+      "publisher_hint": "",
+      "index_published": "2020-10-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.10.15_Operation_Quicksand_MuddyWater’s_Offensive_Attack_Against_Israeli/2020.10.15_Operation_Quicksand_MuddyWater’s_Offensive_Attack_Against_Israeli.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.10.15_Operation_Quicksand_MuddyWater%E2%80%99s_Offensive_Attack_Against_Israeli/2020.10.15_Operation_Quicksand_MuddyWater%E2%80%99s_Offensive_Attack_Against_Israeli.pdf",
+      "year": "2020",
+      "report_folder": "2020.10.15_Operation_Quicksand_MuddyWater’s_Offensive_Attack_Against_Israeli",
+      "size_bytes": 1532533,
+      "publisher_hint": "",
+      "index_published": "2020-10-15",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.10.23.APT-C-44_NAFox/APT-C-44_CN_Version.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.10.23.APT-C-44_NAFox/APT-C-44_CN_Version.pdf",
+      "year": "2020",
+      "report_folder": "2020.10.23.APT-C-44_NAFox",
+      "size_bytes": 2164272,
+      "publisher_hint": "",
+      "index_published": "2020-10-23",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.11.10.APT32_Cambodian/cta-2020-1110.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.11.10.APT32_Cambodian/cta-2020-1110.pdf",
+      "year": "2020",
+      "report_folder": "2020.11.10.APT32_Cambodian",
+      "size_bytes": 1034051,
+      "publisher_hint": "",
+      "index_published": "2020-11-10",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.11.16.Chinese_APT_South_Eastern_Asian/Bitdefender-Whitepaper-Chinese-APT.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.11.16.Chinese_APT_South_Eastern_Asian/Bitdefender-Whitepaper-Chinese-APT.pdf",
+      "year": "2020",
+      "report_folder": "2020.11.16.Chinese_APT_South_Eastern_Asian",
+      "size_bytes": 6505694,
+      "publisher_hint": "",
+      "index_published": "2020-11-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.11.18.Bookcodes_C2/[TLP_WHITE][KISA] TTPs_2_Analysis_of_the_Bookcodes_RAT_C2_framework_starting_with_spear_phishing.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.11.18.Bookcodes_C2/%5BTLP_WHITE%5D%5BKISA%5D%20TTPs_2_Analysis_of_the_Bookcodes_RAT_C2_framework_starting_with_spear_phishing.pdf",
+      "year": "2020",
+      "report_folder": "2020.11.18.Bookcodes_C2",
+      "size_bytes": 19224776,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.12.01.APT_US_Think_Tanks/AA20-336A-APT_Actors_Targeting_US_ThinkTanks.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.12.01.APT_US_Think_Tanks/AA20-336A-APT_Actors_Targeting_US_ThinkTanks.pdf",
+      "year": "2020",
+      "report_folder": "2020.12.01.APT_US_Think_Tanks",
+      "size_bytes": 441207,
+      "publisher_hint": "",
+      "index_published": "2020-12-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.12.01.Operation_RED_KANGAROO/Red_Kangaroo.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.12.01.Operation_RED_KANGAROO/Red_Kangaroo.pdf",
+      "year": "2020",
+      "report_folder": "2020.12.01.Operation_RED_KANGAROO",
+      "size_bytes": 6211538,
+      "publisher_hint": "",
+      "index_published": "2020-12-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.12.07.FakeSecurity/The footprints of Raccoon_ a story about operators of JS-sniffer FakeSecurity distributing Raccoon stealer.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.12.07.FakeSecurity/The%20footprints%20of%20Raccoon_%20a%20story%20about%20operators%20of%20JS-sniffer%20FakeSecurity%20distributing%20Raccoon%20stealer.pdf",
+      "year": "2020",
+      "report_folder": "2020.12.07.FakeSecurity",
+      "size_bytes": 10312522,
+      "publisher_hint": "",
+      "index_published": "2020-12-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.12.15.Lazarus_Campaign/ThreatReport-Lazarus.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.12.15.Lazarus_Campaign/ThreatReport-Lazarus.pdf",
+      "year": "2020",
+      "report_folder": "2020.12.15.Lazarus_Campaign",
+      "size_bytes": 1229672,
+      "publisher_hint": "",
+      "index_published": "2020-12-15",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.12.17.Pay2Kitten/Pay2Kitten.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.12.17.Pay2Kitten/Pay2Kitten.pdf",
+      "year": "2020",
+      "report_folder": "2020.12.17.Pay2Kitten",
+      "size_bytes": 1500786,
+      "publisher_hint": "",
+      "index_published": "2020-12-17",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.12.22.FIN7_RYUK/blog.truesec.com-Collaboration between FIN7 and the RYUK group a Truesec Investigation.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.12.22.FIN7_RYUK/blog.truesec.com-Collaboration%20between%20FIN7%20and%20the%20RYUK%20group%20a%20Truesec%20Investigation.pdf",
+      "year": "2020",
+      "report_folder": "2020.12.22.FIN7_RYUK",
+      "size_bytes": 1008898,
+      "publisher_hint": "blog.truesec.com",
+      "index_published": "2020-12-22",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.12.23.Lazarus_COVID-19/securelist.com-Lazarus covets COVID-19-related intelligence.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.12.23.Lazarus_COVID-19/securelist.com-Lazarus%20covets%20COVID-19-related%20intelligence.pdf",
+      "year": "2020",
+      "report_folder": "2020.12.23.Lazarus_COVID-19",
+      "size_bytes": 954538,
+      "publisher_hint": "securelist.com",
+      "index_published": "2020-12-23",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.12.29.Revenge_RAT/Revenge RAT targeting users in South America.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.12.29.Revenge_RAT/Revenge%20RAT%20targeting%20users%20in%20South%20America.pdf",
+      "year": "2020",
+      "report_folder": "2020.12.29.Revenge_RAT",
+      "size_bytes": 1695942,
+      "publisher_hint": "",
+      "index_published": "2020-12-29",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2020.12.30.SolarWinds_Attribution/pov-2020-1230.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2020.12.30.SolarWinds_Attribution/pov-2020-1230.pdf",
+      "year": "2020",
+      "report_folder": "2020.12.30.SolarWinds_Attribution",
+      "size_bytes": 2327847,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2020/2021.02.01.ElephantRAT/blog.vincss.net-RE020 ElephantRAT Kunming version our latest discovered RAT of Panda and the similarities with recent.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2020/2021.02.01.ElephantRAT/blog.vincss.net-RE020%20ElephantRAT%20Kunming%20version%20our%20latest%20discovered%20RAT%20of%20Panda%20and%20the%20similarities%20with%20recent.pdf",
+      "year": "2020",
+      "report_folder": "2021.02.01.ElephantRAT",
+      "size_bytes": 2614843,
+      "publisher_hint": "blog.vincss.net",
+      "index_published": "2021-02-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.01.04.Carbanak_evolution_of_FIN7_JssLoader/[Morphisec]_The_Evolution_of_the_FIN7_JssLoader.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.01.04.Carbanak_evolution_of_FIN7_JssLoader/%5BMorphisec%5D_The_Evolution_of_the_FIN7_JssLoader.pdf",
+      "year": "2021",
+      "report_folder": "2021.01.04.Carbanak_evolution_of_FIN7_JssLoader",
+      "size_bytes": 2022779,
+      "publisher_hint": "",
+      "index_published": "2021-01-04",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.01.04.Dridex_Next_Strike/research.checkpoint.com-Stopping Serial Killer Catching the Next Strike.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.01.04.Dridex_Next_Strike/research.checkpoint.com-Stopping%20Serial%20Killer%20Catching%20the%20Next%20Strike.pdf",
+      "year": "2021",
+      "report_folder": "2021.01.04.Dridex_Next_Strike",
+      "size_bytes": 2069039,
+      "publisher_hint": "research.checkpoint.com",
+      "index_published": "2021-01-04",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.01.11.SUNSPOT/SUNSPOT Malware A Technical Analysis.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.01.11.SUNSPOT/SUNSPOT%20Malware%20A%20Technical%20Analysis.pdf",
+      "year": "2021",
+      "report_folder": "2021.01.11.SUNSPOT",
+      "size_bytes": 677566,
+      "publisher_hint": "",
+      "index_published": "2021-01-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.01.11.xHunt_Campaign/xHunt Campaign_ New BumbleBee Webshell and SSH Tunnels Used for Lateral Movement.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.01.11.xHunt_Campaign/xHunt%20Campaign_%20New%20BumbleBee%20Webshell%20and%20SSH%20Tunnels%20Used%20for%20Lateral%20Movement.pdf",
+      "year": "2021",
+      "report_folder": "2021.01.11.xHunt_Campaign",
+      "size_bytes": 2444011,
+      "publisher_hint": "",
+      "index_published": "2021-01-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.01.12.Abusing_cloud_services_Chimera/research.nccgroup.com-Abusing cloud services to fly under the radar.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.01.12.Abusing_cloud_services_Chimera/research.nccgroup.com-Abusing%20cloud%20services%20to%20fly%20under%20the%20radar.pdf",
+      "year": "2021",
+      "report_folder": "2021.01.12.Abusing_cloud_services_Chimera",
+      "size_bytes": 525441,
+      "publisher_hint": "research.nccgroup.com",
+      "index_published": "2021-01-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.01.14.Higaisa_or_Winnti_APT41/ptsecurity.com-Higaisa or Winnti APT41 backdoors old and new.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.01.14.Higaisa_or_Winnti_APT41/ptsecurity.com-Higaisa%20or%20Winnti%20APT41%20backdoors%20old%20and%20new.pdf",
+      "year": "2021",
+      "report_folder": "2021.01.14.Higaisa_or_Winnti_APT41",
+      "size_bytes": 5003839,
+      "publisher_hint": "ptsecurity.com",
+      "index_published": "2021-01-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.02.10.Confucius_India-Pakistan/Novel Confucius APT Android Spyware Linked to India-Pakistan Conflict.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.02.10.Confucius_India-Pakistan/Novel%20Confucius%20APT%20Android%20Spyware%20Linked%20to%20India-Pakistan%20Conflict.pdf",
+      "year": "2021",
+      "report_folder": "2021.02.10.Confucius_India-Pakistan",
+      "size_bytes": 2324734,
+      "publisher_hint": "",
+      "index_published": "2021-02-10",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.02.28.RedEcho_APT/cta-2021-0228.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.02.28.RedEcho_APT/cta-2021-0228.pdf",
+      "year": "2021",
+      "report_folder": "2021.02.28.RedEcho_APT",
+      "size_bytes": 8767827,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.03.10.FIN8_BADHATCH_Toolkit/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.03.10.FIN8_BADHATCH_Toolkit/Bitdefender-PR-Whitepaper-BADHATCH-creat5237-en-EN.pdf",
+      "year": "2021",
+      "report_folder": "2021.03.10.FIN8_BADHATCH_Toolkit",
+      "size_bytes": 4789837,
+      "publisher_hint": "",
+      "index_published": "2021-03-10",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.03.30.APT10/APT10_ sophisticated multi-layered loader Ecipekac discovered in A41APT campaign _ Securelist.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.03.30.APT10/APT10_%20sophisticated%20multi-layered%20loader%20Ecipekac%20discovered%20in%20A41APT%20campaign%20_%20Securelist.pdf",
+      "year": "2021",
+      "report_folder": "2021.03.30.APT10",
+      "size_bytes": 2292501,
+      "publisher_hint": "",
+      "index_published": "2021-03-30",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.03.XX.Academics_AI_APTs/CSET-Academics-AI-and-APTs.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.03.XX.Academics_AI_APTs/CSET-Academics-AI-and-APTs.pdf",
+      "year": "2021",
+      "report_folder": "2021.03.XX.Academics_AI_APTs",
+      "size_bytes": 523071,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.04.20.APT_Pulse_Secure_Zero-Day/Check Your Pulse_ Suspected APT Actors Leverage Authentication Bypass Techniques and Pulse Secure Zero-Day _ FireEye Inc.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.04.20.APT_Pulse_Secure_Zero-Day/Check%20Your%20Pulse_%20Suspected%20APT%20Actors%20Leverage%20Authentication%20Bypass%20Techniques%20and%20Pulse%20Secure%20Zero-Day%20_%20FireEye%20Inc.pdf",
+      "year": "2021",
+      "report_folder": "2021.04.20.APT_Pulse_Secure_Zero-Day",
+      "size_bytes": 2616292,
+      "publisher_hint": "",
+      "index_published": "2021-04-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.05.07.MuddyWater_Binder_2/MuddyWater Binder Project Part 2.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.05.07.MuddyWater_Binder_2/MuddyWater%20Binder%20Project%20Part%202.pdf",
+      "year": "2021",
+      "report_folder": "2021.05.07.MuddyWater_Binder_2",
+      "size_bytes": 144823,
+      "publisher_hint": "",
+      "index_published": "2021-05-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.05.28.NOBELIUM_toolset/Breaking down NOBELIUM’s latest early-stage toolset - Microsoft Security.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.05.28.NOBELIUM_toolset/Breaking%20down%20NOBELIUM%E2%80%99s%20latest%20early-stage%20toolset%20-%20Microsoft%20Security.pdf",
+      "year": "2021",
+      "report_folder": "2021.05.28.NOBELIUM_toolset",
+      "size_bytes": 4614893,
+      "publisher_hint": "",
+      "index_published": "2021-05-28",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.06.03.SharpPanda_APT/SharpPanda_ Chinese APT Group Targets Southeast Asian Government With Previously Unknown Backdoor - Check Point Research.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.06.03.SharpPanda_APT/SharpPanda_%20Chinese%20APT%20Group%20Targets%20Southeast%20Asian%20Government%20With%20Previously%20Unknown%20Backdoor%20-%20Check%20Point%20Research.pdf",
+      "year": "2021",
+      "report_folder": "2021.06.03.SharpPanda_APT",
+      "size_bytes": 1634259,
+      "publisher_hint": "",
+      "index_published": "2021-06-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.06.16.RedFoxtrot_APT_PLA_69010/cta-2021-0616.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.06.16.RedFoxtrot_APT_PLA_69010/cta-2021-0616.pdf",
+      "year": "2021",
+      "report_folder": "2021.06.16.RedFoxtrot_APT_PLA_69010",
+      "size_bytes": 13973524,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.07.01.IndigoZebra_APT/IndigoZebra APT continues to attack Central Asia with evolving tools - Check Point Research.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.07.01.IndigoZebra_APT/IndigoZebra%20APT%20continues%20to%20attack%20Central%20Asia%20with%20evolving%20tools%20-%20Check%20Point%20Research.pdf",
+      "year": "2021",
+      "report_folder": "2021.07.01.IndigoZebra_APT",
+      "size_bytes": 3133935,
+      "publisher_hint": "",
+      "index_published": "2021-07-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.07.19.APT40_TTP/CSA_TTPs-of-Indicted-APT40-Actors-Associated-with-China-MSS-Hainan-State-Security-Department.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.07.19.APT40_TTP/CSA_TTPs-of-Indicted-APT40-Actors-Associated-with-China-MSS-Hainan-State-Security-Department.pdf",
+      "year": "2021",
+      "report_folder": "2021.07.19.APT40_TTP",
+      "size_bytes": 1171191,
+      "publisher_hint": "",
+      "index_published": "2021-07-19",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.07.20.Tracking.TeamTNT/wp-tracking-the-activities-of-teamTNT.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.07.20.Tracking.TeamTNT/wp-tracking-the-activities-of-teamTNT.pdf",
+      "year": "2021",
+      "report_folder": "2021.07.20.Tracking.TeamTNT",
+      "size_bytes": 3607907,
+      "publisher_hint": "",
+      "index_published": "2021-07-20",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.08.03.APT31_new_dropper/APT31 new dropper. Target destinations_ Mongolia, Russia, the U.S., and elsewhere.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.08.03.APT31_new_dropper/APT31%20new%20dropper.%20Target%20destinations_%20Mongolia%2C%20Russia%2C%20the%20U.S.%2C%20and%20elsewhere.pdf",
+      "year": "2021",
+      "report_folder": "2021.08.03.APT31_new_dropper",
+      "size_bytes": 716293,
+      "publisher_hint": "",
+      "index_published": "2021-08-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.08.03.DeadRinger/DeadRinger_ Exposing Chinese Threat Actors Targeting Major Telcos.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.08.03.DeadRinger/DeadRinger_%20Exposing%20Chinese%20Threat%20Actors%20Targeting%20Major%20Telcos.pdf",
+      "year": "2021",
+      "report_folder": "2021.08.03.DeadRinger",
+      "size_bytes": 4445283,
+      "publisher_hint": "",
+      "index_published": "2021-08-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.08.03.SKINNYBOY/A step-by-step analysis of the new malware used by APT28_Sofacy called SkinnyBoy – CYBER GEEKS.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.08.03.SKINNYBOY/A%20step-by-step%20analysis%20of%20the%20new%20malware%20used%20by%20APT28_Sofacy%20called%20SkinnyBoy%20%E2%80%93%20CYBER%20GEEKS.pdf",
+      "year": "2021",
+      "report_folder": "2021.08.03.SKINNYBOY",
+      "size_bytes": 3234103,
+      "publisher_hint": "",
+      "index_published": "2021-08-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.08.10.UNC215_Chinese_Israel/UNC215_ Spotlight on a Chinese Espionage Campaign in Israel _ FireEye Inc.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.08.10.UNC215_Chinese_Israel/UNC215_%20Spotlight%20on%20a%20Chinese%20Espionage%20Campaign%20in%20Israel%20_%20FireEye%20Inc.pdf",
+      "year": "2021",
+      "report_folder": "2021.08.10.UNC215_Chinese_Israel",
+      "size_bytes": 3857629,
+      "publisher_hint": "",
+      "index_published": "2021-08-10",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.08.17_new_iranian_campaign_by_Siamesekitten/2021.08.17_new_iranian_campaign_by_Siamesekitten.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.08.17_new_iranian_campaign_by_Siamesekitten/2021.08.17_new_iranian_campaign_by_Siamesekitten.pdf",
+      "year": "2021",
+      "report_folder": "2021.08.17_new_iranian_campaign_by_Siamesekitten",
+      "size_bytes": 2919528,
+      "publisher_hint": "",
+      "index_published": "2021-08-17",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.08.25.FIN8_Sardonic_Backdoor/Bitdefender-PR-Whitepaper-FIN8-creat5619-en-EN.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.08.25.FIN8_Sardonic_Backdoor/Bitdefender-PR-Whitepaper-FIN8-creat5619-en-EN.pdf",
+      "year": "2021",
+      "report_folder": "2021.08.25.FIN8_Sardonic_Backdoor",
+      "size_bytes": 5338912,
+      "publisher_hint": "",
+      "index_published": "2021-08-25",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.09.08.Pro-PRC_Campaign/Pro-PRC Influence Campaign Expands to Dozens of Social Media Platforms, Websites, and Forums in at Least Seven Languages, Attempted to Physically Mobilize Protesters in the U.S. _ FireEye Inc.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.09.08.Pro-PRC_Campaign/Pro-PRC%20Influence%20Campaign%20Expands%20to%20Dozens%20of%20Social%20Media%20Platforms%2C%20Websites%2C%20and%20Forums%20in%20at%20Least%20Seven%20Languages%2C%20Attempted%20to%20Physically%20Mobilize%20Protesters%20in%20the%20U.S.%20_%20FireEye%20Inc.pdf",
+      "year": "2021",
+      "report_folder": "2021.09.08.Pro-PRC_Campaign",
+      "size_bytes": 12457540,
+      "publisher_hint": "",
+      "index_published": "2021-09-08",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.09.09.Dark_Covenant/cta-2021-0909.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.09.09.Dark_Covenant/cta-2021-0909.pdf",
+      "year": "2021",
+      "report_folder": "2021.09.09.Dark_Covenant",
+      "size_bytes": 2268354,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.09.13.APT-C-36_South_American/APT-C-36 Updates Its Long-term Spam Campaign Against South American Entities With Commodity RATs.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.09.13.APT-C-36_South_American/APT-C-36%20Updates%20Its%20Long-term%20Spam%20Campaign%20Against%20South%20American%20Entities%20With%20Commodity%20RATs.pdf",
+      "year": "2021",
+      "report_folder": "2021.09.13.APT-C-36_South_American",
+      "size_bytes": 354601,
+      "publisher_hint": "",
+      "index_published": "2021-09-13",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.09.14.Operation_Harvest/Operation ‘Harvest’_ A Deep Dive into a Long-term Campaign _ McAfee Blogs.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.09.14.Operation_Harvest/Operation%20%E2%80%98Harvest%E2%80%99_%20A%20Deep%20Dive%20into%20a%20Long-term%20Campaign%20_%20McAfee%20Blogs.pdf",
+      "year": "2021",
+      "report_folder": "2021.09.14.Operation_Harvest",
+      "size_bytes": 3994640,
+      "publisher_hint": "",
+      "index_published": "2021-09-14",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.09.30.GhostEmperor/GhostEmperor_technical-details_PDF_eng.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.09.30.GhostEmperor/GhostEmperor_technical-details_PDF_eng.pdf",
+      "year": "2021",
+      "report_folder": "2021.09.30.GhostEmperor",
+      "size_bytes": 2899959,
+      "publisher_hint": "",
+      "index_published": "2021-09-30",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.10.06.Operation_GhostShell/Operation GhostShell_ Novel RAT Targets Global Aerospace and Telecoms Firms.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.10.06.Operation_GhostShell/Operation%20GhostShell_%20Novel%20RAT%20Targets%20Global%20Aerospace%20and%20Telecoms%20Firms.pdf",
+      "year": "2021",
+      "report_folder": "2021.10.06.Operation_GhostShell",
+      "size_bytes": 3446014,
+      "publisher_hint": "",
+      "index_published": "2021-10-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.10.12.MysterySnail/MysterySnail attacks with Windows zero-day _ Securelist.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.10.12.MysterySnail/MysterySnail%20attacks%20with%20Windows%20zero-day%20_%20Securelist.pdf",
+      "year": "2021",
+      "report_folder": "2021.10.12.MysterySnail",
+      "size_bytes": 329509,
+      "publisher_hint": "",
+      "index_published": "2021-10-12",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.11.16.UNC1151/UNC1151 Assessed with High Confidence to have Links to Belarus, Ghostwriter Campaign Aligned with Belarusian Government Interests _ Mandiant.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.11.16.UNC1151/UNC1151%20Assessed%20with%20High%20Confidence%20to%20have%20Links%20to%20Belarus%2C%20Ghostwriter%20Campaign%20Aligned%20with%20Belarusian%20Government%20Interests%20_%20Mandiant.pdf",
+      "year": "2021",
+      "report_folder": "2021.11.16.UNC1151",
+      "size_bytes": 336113,
+      "publisher_hint": "",
+      "index_published": "2021-11-16",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2021/2021.12.07.FIN13/FIN13_ A Cybercriminal Threat Actor Focused on Mexico _ Mandiant.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2021/2021.12.07.FIN13/FIN13_%20A%20Cybercriminal%20Threat%20Actor%20Focused%20on%20Mexico%20_%20Mandiant.pdf",
+      "year": "2021",
+      "report_folder": "2021.12.07.FIN13",
+      "size_bytes": 1220085,
+      "publisher_hint": "",
+      "index_published": "2021-12-07",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.01.05.Elephant_Beetle/Sygnia- Elephant Beetle_Jan2022.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.01.05.Elephant_Beetle/Sygnia-%20Elephant%20Beetle_Jan2022.pdf",
+      "year": "2022",
+      "report_folder": "2022.01.05.Elephant_Beetle",
+      "size_bytes": 737314,
+      "publisher_hint": "",
+      "index_published": "2022-01-05",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.01.17.Earth_Lucsa/technical-brief-delving-deep-an-analysis-of-earth-lusca-operations.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.01.17.Earth_Lucsa/technical-brief-delving-deep-an-analysis-of-earth-lusca-operations.pdf",
+      "year": "2022",
+      "report_folder": "2022.01.17.Earth_Lucsa",
+      "size_bytes": 1701003,
+      "publisher_hint": "",
+      "index_published": "2022-01-17",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.02.01.Phosphorus_APT/PowerLess Trojan_ Iranian APT Phosphorus Adds New PowerShell Backdoor for Espionage.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.02.01.Phosphorus_APT/PowerLess%20Trojan_%20Iranian%20APT%20Phosphorus%20Adds%20New%20PowerShell%20Backdoor%20for%20Espionage.pdf",
+      "year": "2022",
+      "report_folder": "2022.02.01.Phosphorus_APT",
+      "size_bytes": 2895494,
+      "publisher_hint": "",
+      "index_published": "2022-02-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.02.03.Antlion_APT/Antlion_ Chinese APT Uses Custom Backdoor to Target Financial Institutions in Taiwan _ Symantec Blogs.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.02.03.Antlion_APT/Antlion_%20Chinese%20APT%20Uses%20Custom%20Backdoor%20to%20Target%20Financial%20Institutions%20in%20Taiwan%20_%20Symantec%20Blogs.pdf",
+      "year": "2022",
+      "report_folder": "2022.02.03.Antlion_APT",
+      "size_bytes": 812202,
+      "publisher_hint": "",
+      "index_published": "2022-02-03",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.03.01.Asylum_Ambuscade/Asylum Ambuscade_ State Actor Uses Compromised Private Ukrainian Military Emails to Target European Governments and Refugee Movement _ Proofpoint US.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.03.01.Asylum_Ambuscade/Asylum%20Ambuscade_%20State%20Actor%20Uses%20Compromised%20Private%20Ukrainian%20Military%20Emails%20to%20Target%20European%20Governments%20and%20Refugee%20Movement%20_%20Proofpoint%20US.pdf",
+      "year": "2022",
+      "report_folder": "2022.03.01.Asylum_Ambuscade",
+      "size_bytes": 2135285,
+      "publisher_hint": "",
+      "index_published": "2022-03-01",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.03.08.RURansom_Wiper/New RURansom Wiper Targets Russia.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.03.08.RURansom_Wiper/New%20RURansom%20Wiper%20Targets%20Russia.pdf",
+      "year": "2022",
+      "report_folder": "2022.03.08.RURansom_Wiper",
+      "size_bytes": 408883,
+      "publisher_hint": "",
+      "index_published": "2022-03-08",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.03.23.Kazakhstan_APT/telecom_research_en.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.03.23.Kazakhstan_APT/telecom_research_en.pdf",
+      "year": "2022",
+      "report_folder": "2022.03.23.Kazakhstan_APT",
+      "size_bytes": 3902287,
+      "publisher_hint": "",
+      "index_published": "2022-03-23",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.04.06.Targeting_of_Indian_Power_Grid/ta-2022-0406.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.04.06.Targeting_of_Indian_Power_Grid/ta-2022-0406.pdf",
+      "year": "2022",
+      "report_folder": "2022.04.06.Targeting_of_Indian_Power_Grid",
+      "size_bytes": 1403868,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.05.05.Mustang_Panda_Europe/Cisco Talos Intelligence Group - Comprehensive Threat Intelligence_ Mustang Panda deploys a new wave of malware targeting Europe.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.05.05.Mustang_Panda_Europe/Cisco%20Talos%20Intelligence%20Group%20-%20Comprehensive%20Threat%20Intelligence_%20Mustang%20Panda%20deploys%20a%20new%20wave%20of%20malware%20targeting%20Europe.pdf",
+      "year": "2022",
+      "report_folder": "2022.05.05.Mustang_Panda_Europe",
+      "size_bytes": 3126646,
+      "publisher_hint": "",
+      "index_published": "2022-05-05",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.05.19.Twisted_Panda/Twisted Panda_ Chinese APT espionage operation against Russian’s state-owned defense institutes - Check Point Research.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.05.19.Twisted_Panda/Twisted%20Panda_%20Chinese%20APT%20espionage%20operation%20against%20Russian%E2%80%99s%20state-owned%20defense%20institutes%20-%20Check%20Point%20Research.pdf",
+      "year": "2022",
+      "report_folder": "2022.05.19.Twisted_Panda",
+      "size_bytes": 3082919,
+      "publisher_hint": "",
+      "index_published": "2022-05-19",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.06.21.ToddyCat_APT/ToddyCat_ Unveiling an unknown APT actor attacking high-profile entities in Europe and Asia _ Securelist.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.06.21.ToddyCat_APT/ToddyCat_%20Unveiling%20an%20unknown%20APT%20actor%20attacking%20high-profile%20entities%20in%20Europe%20and%20Asia%20_%20Securelist.pdf",
+      "year": "2022",
+      "report_folder": "2022.06.21.ToddyCat_APT",
+      "size_bytes": 1166106,
+      "publisher_hint": "",
+      "index_published": "2022-06-21",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.09.28.Chinese_Communist_Party/ta-2022-0928.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.09.28.Chinese_Communist_Party/ta-2022-0928.pdf",
+      "year": "2022",
+      "report_folder": "2022.09.28.Chinese_Communist_Party",
+      "size_bytes": 2852700,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2022/2022.12.06.Mustang_Panda/Mustang Panda Uses the Russian-Ukrainian War to Attack Europe and Asia Pacific Targets.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2022/2022.12.06.Mustang_Panda/Mustang%20Panda%20Uses%20the%20Russian-Ukrainian%20War%20to%20Attack%20Europe%20and%20Asia%20Pacific%20Targets.pdf",
+      "year": "2022",
+      "report_folder": "2022.12.06.Mustang_Panda",
+      "size_bytes": 3122098,
+      "publisher_hint": "",
+      "index_published": "2022-12-06",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2023/2023.01.11.Dark_Pink_APT/Dark Pink APT unleashes malware for deeper and more sinister intrusions in the Asia-Pacific and Europe _ Group-IB Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2023/2023.01.11.Dark_Pink_APT/Dark%20Pink%20APT%20unleashes%20malware%20for%20deeper%20and%20more%20sinister%20intrusions%20in%20the%20Asia-Pacific%20and%20Europe%20_%20Group-IB%20Blog.pdf",
+      "year": "2023",
+      "report_folder": "2023.01.11.Dark_Pink_APT",
+      "size_bytes": 458864,
+      "publisher_hint": "",
+      "index_published": "2023-01-11",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2023/2023.07.27.BlueBravo/cta-2023-0727-1.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2023/2023.07.27.BlueBravo/cta-2023-0727-1.pdf",
+      "year": "2023",
+      "report_folder": "2023.07.27.BlueBravo",
+      "size_bytes": 3632951,
+      "publisher_hint": "",
+      "index_published": "",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2023/2023.08.24_Flax_Typhoon/Flax Typhoon using legitimate software to quietly access Taiwanese organizations _ Microsoft Security Blog.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2023/2023.08.24_Flax_Typhoon/Flax%20Typhoon%20using%20legitimate%20software%20to%20quietly%20access%20Taiwanese%20organizations%20_%20Microsoft%20Security%20Blog.pdf",
+      "year": "2023",
+      "report_folder": "2023.08.24_Flax_Typhoon",
+      "size_bytes": 697535,
+      "publisher_hint": "",
+      "index_published": "2023-08-24",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2023/2023.11.27.WildCard_SysJoker_Israel/WildCard_ The APT Behind SysJoker Targets Critical Sectors in Israel.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2023/2023.11.27.WildCard_SysJoker_Israel/WildCard_%20The%20APT%20Behind%20SysJoker%20Targets%20Critical%20Sectors%20in%20Israel.pdf",
+      "year": "2023",
+      "report_folder": "2023.11.27.WildCard_SysJoker_Israel",
+      "size_bytes": 1035269,
+      "publisher_hint": "",
+      "index_published": "2023-11-27",
+      "selection": "new_candidate"
+    },
+    {
+      "path": "2023/2023.12.19.Seedworm/Seedworm_ Iranian Hackers Target Telecoms Orgs in North and East Africa _ Symantec Enterprise Blogs.pdf",
+      "url": "https://raw.githubusercontent.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/cbf136e24f5d2a4d89619580455aae8b9b0aeadb/2023/2023.12.19.Seedworm/Seedworm_%20Iranian%20Hackers%20Target%20Telecoms%20Orgs%20in%20North%20and%20East%20Africa%20_%20Symantec%20Enterprise%20Blogs.pdf",
+      "year": "2023",
+      "report_folder": "2023.12.19.Seedworm",
+      "size_bytes": 463818,
+      "publisher_hint": "",
+      "index_published": "2023-12-19",
+      "selection": "new_candidate"
+    }
+  ]
+}

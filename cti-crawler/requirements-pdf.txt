@@ -1,0 +1,4 @@
+# Installed automatically by environment.yml, which also supplies Pango and fonts.
+# These bounds match the PDF renderer API used by crawler/pdf/.
+weasyprint>=69,<70
+pypdf>=6,<7

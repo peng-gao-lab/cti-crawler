@@ -1,0 +1,31 @@
+# Local research, development records, and the preserved original implementation
+/development/
+/HANDOFF.md
+/cti-crawler-original/
+/data/
+/.agents/
+/.codex/
+
+# Collected data, resume state, and release archives (keep locally)
+/cti-crawler/output/
+/cti-crawler/state/
+/cti-crawler/zip/
+*.zip
+*.xlsx
+*.log
+
+# Local maintenance workflow (packaging, delivery README templates, repository selection inputs,
+# manifest preparation, numbering migration, overlap comparison) and the offline test suite;
+# conversion and the frozen manifests remain part of the public crawler
+/cti-crawler/script/
+/cti-crawler/crawler/shared/templates/
+/cti-crawler/config/selections/
+/cti-crawler/tests/
+
+# Python and editor artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+.DS_Store

@@ -1,0 +1,45 @@
+name: cti
+data_namespace: cti
+
+source_files:
+  - cti.yaml
+
+enabled_sources:
+  - csoonline_cybercrime
+  - paloalto
+  - spiderlabs
+  - symantec_threat_intelligence
+  - thehackernews
+  - threatpost
+  - trustwave
+  - unit42
+  - attcybersecurity
+  - ciscoumbrella
+  - cloudflare
+  - crowdstrike
+  - darknet
+  - trellix
+  - forcepoint
+  - hotforsecurity
+  - kasperskydaily
+  - krebsonsecurity
+  - malwarebytes_reports
+  - mcafee
+  - nakedsecurity
+  - nccgroup
+  - recordedfuture
+  - rsa
+  - securelist
+  - schneier_on_security
+  - sophos
+  - trendmicro
+  - webroot
+  - welivesecurity
+  - zscaler
+  - fsecure_threat
+  - malwarebytes_encyclopedia
+  - trendmicro_malware
+  - trendmicro_spam
+  - kaspersky_threat
+  - kaspersky_vulnerability
+

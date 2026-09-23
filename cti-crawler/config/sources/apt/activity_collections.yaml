@@ -1,0 +1,32 @@
+# Third-party report collections read from frozen local manifests (third family, provisional class).
+# max_reports: null inherits runtime.default_max_reports.
+sources:
+  cybermonitor_history:
+    adapter: cybermonitor_history
+    base_url: https://raw.githubusercontent.com
+    start_urls:
+      - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/tree/cbf136e24f5d2a4d89619580455aae8b9b0aeadb
+    discovery: http
+    content: http
+    # Frozen list of report PDFs (2014-2023 folders) that our collection did not already hold
+    # by exact file name, URL slug or title on 2026-09-17.
+    manifest: manifests/apt/cybermonitor_history.json
+    source_family: activity_reports
+    report_class: multistep_attack
+    classification_basis: third_party_collection_manifest
+    max_reports: null
+
+  blackorbird_reports:
+    adapter: blackorbird_reports
+    base_url: https://raw.githubusercontent.com
+    start_urls:
+      - https://github.com/blackorbird/APT_REPORT/tree/cc81035d21c7e3644eb4ee1c6c9ef5333b2dda36
+    discovery: http
+    content: http
+    # Report PDFs in the repository's actor and campaign directories plus reviewed exceptions,
+    # frozen at one commit; rebuilt by script/bash/prepare_blackorbird_manifest.sh.
+    manifest: manifests/apt/blackorbird_reports.json
+    source_family: activity_reports
+    report_class: multistep_attack
+    classification_basis: third_party_collection_manifest
+    max_reports: null

@@ -1,0 +1,190 @@
+# Reviewed publisher categories/series; classification records the source rule.
+# max_reports: null inherits runtime.default_max_reports.
+# For development runs use isolated output/state roots and max_reports: 1.
+sources:
+  sentinellabs_apt:
+    adapter: sentinellabs_apt
+    base_url: https://www.sentinelone.com
+    start_urls:
+      - https://www.sentinelone.com/labs/category/advanced-persistent-threat/
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    classification_basis: publisher_apt_category
+    max_reports: null
+
+  volexity_apt:
+    adapter: volexity_apt
+    base_url: https://www.volexity.com
+    start_urls:
+      - https://www.volexity.com/blog/
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    # Whole blog after a source-level review; the class is provisional, not an article-level verdict.
+    classification_basis: reviewed_publisher_whole_blog
+    max_reports: null
+
+  groupib_apt:
+    adapter: groupib_apt
+    base_url: https://www.group-ib.com
+    start_urls:
+      - https://www.group-ib.com/blog/
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    classification_basis: publisher_apt_category
+    max_reports: null
+
+  talos_apt:
+    adapter: talos_apt
+    base_url: https://blog.talosintelligence.com
+    start_urls:
+      - https://blog.talosintelligence.com/category/apt/
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    classification_basis: publisher_apt_category
+    max_reports: null
+
+  sophos_pacific_rim:
+    adapter: sophos_pacific_rim
+    base_url: https://www.sophos.com
+    start_urls:
+      - https://www.sophos.com/en-us/content/pacific-rim
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    classification_basis: publisher_apt_series_research_section
+    # Fixed research section only; excludes thought leadership and defense guides.
+    max_reports: null
+
+  bitdefender_apt:
+    adapter: bitdefender_apt
+    base_url: https://www.bitdefender.com
+    start_urls:
+      - https://www.bitdefender.com/en-us/blog/businessinsights/tag/advanced-persistent-threats
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    # APT + Threat Research, excluding Cybersecurity Awareness (publisher tags).
+    classification_basis: publisher_apt_research_tags_excluding_awareness
+    max_reports: null
+
+  securelist_apt:
+    adapter: securelist
+    base_url: https://securelist.com
+    start_urls:
+      - https://securelist.com/category/apt-reports/
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    classification_basis: publisher_apt_category
+    max_reports: null
+
+  eset_apt_reports:
+    adapter: eset_apt_reports
+    base_url: https://www.welivesecurity.com
+    start_urls:
+      - https://www.welivesecurity.com/en/threat-reports/
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    classification_basis: publisher_apt_report_series
+    max_reports: null
+
+  thehackernews_apt:
+    adapter: thehackernews
+    base_url: https://thehackernews.com
+    start_urls:
+      - https://thehackernews.com/search/label/Advanced%20Persistent%20Threat
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    classification_basis: publisher_apt_tag
+    max_reports: null
+
+  trendmicro_apt:
+    adapter: trendmicro_apt
+    base_url: https://www.trendmicro.com
+    start_urls:
+      - https://www.trendmicro.com/en_us/research.html?category=trend-micro-research:threats/apt-and-targeted-attacks
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    classification_basis: publisher_apt_research_category
+    max_reports: null
+
+  unit42_apt:
+    adapter: unit42_apt
+    base_url: https://unit42.paloaltonetworks.com
+    start_urls:
+      - https://unit42.paloaltonetworks.com/tag/advanced-persistent-threat/
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    classification_basis: publisher_apt_tag
+    max_reports: null
+
+  asec_apt:
+    adapter: asec_apt
+    base_url: https://asec.ahnlab.com
+    start_urls:
+      - https://asec.ahnlab.com/en/category/apt-en/
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    # English APT category, excluding the publisher's fixed monthly digest series.
+    classification_basis: publisher_apt_category_excluding_monthly_digests
+    max_reports: null
+
+  microsoft_apt:
+    adapter: microsoft_apt
+    base_url: https://www.microsoft.com/en-us/security/blog
+    start_urls:
+      - https://www.microsoft.com/en-us/security/blog/threat-intelligence/threat-actors/
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    # Publisher term covers both nation-state and criminal actors; see source_risks.json.
+    classification_basis: publisher_threat_actors_term_since_2021
+    max_reports: null
+
+  sekoia_apt:
+    adapter: sekoia_apt
+    base_url: https://www.sekoia.com
+    start_urls:
+      - https://www.sekoia.com/category/apt
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    # Includes overviews and boundary material; see source_risks.json.
+    classification_basis: publisher_apt_category
+    max_reports: null
+
+  certua_apt:
+    adapter: certua_apt
+    base_url: https://cert.gov.ua
+    start_urls:
+      - https://cert.gov.ua/articles/30
+    discovery: http
+    content: http
+    source_family: vendor_apt
+    report_class: explicit_apt
+    # Reviewed malware-tagged activity reports; Ukrainian originals, no actor-name filter.
+    classification_basis: reviewed_cert_activity_tag
+    max_reports: null

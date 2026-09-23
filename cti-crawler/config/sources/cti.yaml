@@ -1,0 +1,388 @@
+# max_reports: null inherits runtime.default_max_reports.
+sources:
+  securelist:
+    adapter: securelist
+    base_url: "https://securelist.com"
+    start_urls:
+      - "https://securelist.com/all"
+    discovery: http
+    content: http
+    max_reports: null
+
+  attcybersecurity:
+    adapter: attcybersecurity
+    base_url: "https://levelblue.com"
+    start_urls:
+      - "https://levelblue.com/blogs/labs-research"
+    discovery: http
+    content: http
+    max_reports: null
+
+  csoonline_security:
+    adapter: csoonline
+    base_url: "https://www.csoonline.com"
+    start_urls:
+      - "https://www.csoonline.com/security"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  csoonline_vulnerabilities:
+    adapter: csoonline
+    base_url: "https://www.csoonline.com"
+    start_urls:
+      - "https://www.csoonline.com/vulnerabilities"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  csoonline_cyberwarfare:
+    adapter: csoonline
+    base_url: "https://www.csoonline.com"
+    start_urls:
+      - "https://www.csoonline.com/cyberwarfare"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  csoonline_cybercrime:
+    adapter: csoonline
+    base_url: "https://www.csoonline.com"
+    start_urls:
+      - "https://www.csoonline.com/cybercrime"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  trendmicro:
+    adapter: trendmicro
+    base_url: "https://www.trendmicro.com"
+    start_urls:
+      - "https://www.trendmicro.com/en_us/research.html"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  trendmicro_security_intelligence:
+    adapter: trendmicro_security_intelligence
+    base_url: "https://blog.trendmicro.com"
+    start_urls:
+      - "https://blog.trendmicro.com/trendlabs-security-intelligence/"
+    discovery: http
+    content: http
+    max_reports: null
+
+  cloudflare:
+    adapter: cloudflare
+    base_url: "https://blog.cloudflare.com"
+    start_urls:
+      - "https://blog.cloudflare.com"
+    discovery: http
+    content: http
+    max_reports: null
+
+  crowdstrike:
+    adapter: crowdstrike
+    base_url: "https://www.crowdstrike.com"
+    start_urls:
+      - "https://www.crowdstrike.com/en-us/blog"
+    discovery: http
+    content: http
+    max_reports: null
+
+  darknet:
+    adapter: darknet
+    base_url: "https://www.darknet.org.uk"
+    start_urls:
+      - "https://www.darknet.org.uk"
+    discovery: http
+    content: http
+    max_reports: null
+
+  trellix:
+    adapter: trellix
+    base_url: "https://www.trellix.com"
+    start_urls:
+      - "https://www.trellix.com/blogs/research/"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  forcepoint:
+    adapter: forcepoint
+    base_url: "https://www.forcepoint.com"
+    start_urls:
+      - "https://www.forcepoint.com/blog"
+    discovery: http
+    content: http
+    max_reports: null
+
+  hotforsecurity:
+    adapter: hotforsecurity
+    base_url: "https://www.bitdefender.com"
+    start_urls:
+      - "https://www.bitdefender.com/en-us/blog/hotforsecurity/tag/industry-news"
+    discovery: http
+    content: http
+    max_reports: null
+
+  kasperskydaily:
+    adapter: kasperskydaily
+    base_url: "https://www.kaspersky.com"
+    start_urls:
+      - "https://www.kaspersky.com/blog/all-posts"
+    discovery: http
+    content: http
+    max_reports: null
+
+  krebsonsecurity:
+    adapter: krebsonsecurity
+    base_url: "https://krebsonsecurity.com"
+    start_urls:
+      - "https://krebsonsecurity.com"
+    discovery: http
+    content: http
+    max_reports: null
+
+  malwarebytes_reports:
+    adapter: malwarebytes_reports
+    base_url: "https://www.malwarebytes.com"
+    start_urls:
+      - "https://www.malwarebytes.com/blog"
+    discovery: http
+    content: http
+    max_reports: null
+
+  mcafee:
+    adapter: mcafee
+    base_url: "https://www.mcafee.com"
+    start_urls:
+      - "https://www.mcafee.com/blogs"
+    discovery: browser
+    content: browser
+    max_reports: null
+
+  nakedsecurity:
+    adapter: sophos
+    base_url: "https://news.sophos.com"
+    start_urls:
+      - "https://news.sophos.com/en-us/category/serious-security/"
+    discovery: http
+    content: http
+    max_reports: null
+
+  nccgroup:
+    adapter: nccgroup
+    base_url: "https://www.nccgroup.com"
+    start_urls:
+      - "https://www.nccgroup.com/research-blog"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  ciscoumbrella:
+    adapter: ciscoumbrella
+    base_url: "https://umbrella.cisco.com"
+    start_urls:
+      - "https://umbrella.cisco.com/blog"
+    discovery: http
+    content: http
+    max_reports: null
+
+  recordedfuture:
+    adapter: recordedfuture
+    base_url: "https://www.recordedfuture.com"
+    start_urls:
+      - "https://www.recordedfuture.com/query-index.json"
+    discovery: http
+    content: http
+    max_reports: null
+
+  rsa:
+    adapter: rsa
+    base_url: "https://www.rsa.com"
+    start_urls:
+      - "https://www.rsa.com/resources/blog/"
+    discovery: http
+    content: http
+    max_reports: null
+
+  schneier_on_security:
+    adapter: schneier_on_security
+    base_url: "https://www.schneier.com"
+    start_urls:
+      - "https://www.schneier.com"
+    discovery: http
+    content: http
+    max_reports: null
+
+  sophos:
+    adapter: sophos
+    base_url: "https://news.sophos.com"
+    start_urls:
+      - "https://news.sophos.com/en-us"
+    discovery: http
+    content: http
+    max_reports: null
+
+  symantec_threat_intelligence:
+    adapter: symantec_threat_intelligence
+    base_url: "https://www.security.com"
+    start_urls:
+      - "https://www.security.com/threat-intelligence"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  threatpost:
+    adapter: threatpost
+    base_url: "https://threatpost.com"
+    start_urls:
+      - "https://threatpost.com/"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  webroot:
+    adapter: webroot
+    base_url: "https://www.webroot.com"
+    start_urls:
+      - "https://www.webroot.com/blog"
+    discovery: http
+    content: http
+    max_reports: null
+
+  welivesecurity:
+    adapter: welivesecurity
+    base_url: "https://www.welivesecurity.com"
+    start_urls:
+      - "https://www.welivesecurity.com/en"
+    discovery: http
+    content: browser
+    max_reports: null
+
+  zscaler:
+    adapter: zscaler
+    base_url: "https://www.zscaler.com"
+    start_urls:
+      - "https://www.zscaler.com/blogs?type=security-research"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  paloalto:
+    adapter: paloalto
+    base_url: "https://www.paloaltonetworks.com"
+    start_urls:
+      - "https://www.paloaltonetworks.com/blog/"
+    discovery: browser
+    content: browser
+    max_reports: null
+
+  unit42:
+    adapter: unit42
+    base_url: "https://unit42.paloaltonetworks.com"
+    start_urls:
+      - "https://unit42.paloaltonetworks.com/unit-42-all-articles/"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  trustwave:
+    adapter: trustwave
+    base_url: "https://www.trustwave.com"
+    start_urls:
+      - "https://www.trustwave.com/en-us/resources/blogs/trustwave-blog"
+    discovery: http
+    content: http
+    max_reports: null
+
+  spiderlabs:
+    adapter: trustwave
+    base_url: "https://www.trustwave.com"
+    start_urls:
+      - "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog"
+    discovery: http
+    content: http
+    max_reports: null
+
+  thehackernews:
+    adapter: thehackernews
+    base_url: "https://thehackernews.com"
+    start_urls:
+      - "https://thehackernews.com"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  fsecure_threat:
+    adapter: fsecure_encyclopedia
+    base_url: "https://www.f-secure.com"
+    start_urls:
+      - "https://www.f-secure.com/v-descs/index.shtml"
+    discovery: browser
+    content: http
+    max_reports: null
+
+  symantec_threat:
+    adapter: symantec_encyclopedia
+    base_url: "http://asb-sngweb.symantec.com"
+    start_urls:
+      - "http://asb-sngweb.symantec.com/security_response/landing/azlisting.jsp"
+    discovery: http
+    content: http
+    max_reports: null
+
+  symantec_vulnerability:
+    adapter: symantec_encyclopedia
+    base_url: "http://asb-sngweb.symantec.com"
+    start_urls:
+      - "http://asb-sngweb.symantec.com/security_response/landing/vulnerabilities.jsp"
+    discovery: http
+    content: http
+    max_reports: null
+
+  trendmicro_malware:
+    adapter: trendmicro_encyclopedia
+    base_url: "https://www.trendmicro.com"
+    start_urls:
+      - "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware"
+    discovery: browser
+    content: browser
+    max_reports: null
+
+  trendmicro_spam:
+    adapter: trendmicro_encyclopedia
+    base_url: "https://www.trendmicro.com"
+    start_urls:
+      - "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/spam"
+    discovery: browser
+    content: browser
+    max_reports: null
+
+  kaspersky_threat:
+    adapter: kaspersky_encyclopedia
+    base_url: "https://threats.kaspersky.com/en"
+    start_urls:
+      - "https://threats.kaspersky.com/en/threat"
+    discovery: browser
+    content: browser
+    max_reports: null
+
+  kaspersky_vulnerability:
+    adapter: kaspersky_encyclopedia
+    base_url: "https://threats.kaspersky.com/en"
+    start_urls:
+      - "https://threats.kaspersky.com/en/vulnerability"
+    discovery: browser
+    content: browser
+    max_reports: null
+
+  malwarebytes_encyclopedia:
+    adapter: malwarebytes_encyclopedia
+    base_url: "https://www.malwarebytes.com"
+    start_urls:
+      - "https://www.malwarebytes.com/blog/all-posts"
+    discovery: http
+    content: http
+    max_reports: null

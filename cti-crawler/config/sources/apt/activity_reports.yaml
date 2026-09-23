@@ -1,0 +1,100 @@
+# Collection only: class is provisional; content review is deferred.
+# max_reports: null inherits runtime.default_max_reports.
+# For development runs use isolated output/state roots and max_reports: 1.
+sources:
+  ciscoumbrella_activity:
+    adapter: ciscoumbrella_activity
+    base_url: https://umbrella.cisco.com
+    start_urls:
+      - https://umbrella.cisco.com/blog/category/cybersecurity-threat-spotlight
+    discovery: http
+    content: http
+    source_family: activity_reports
+    report_class: multistep_attack
+    classification_basis: activity_source_unreviewed
+    max_reports: null
+
+  zscaler_activity:
+    adapter: zscaler
+    base_url: https://www.zscaler.com
+    start_urls:
+      - https://threatlabz.zscaler.com/blogs?tag=Security+Research
+    discovery: http
+    content: http
+    source_family: activity_reports
+    report_class: multistep_attack
+    classification_basis: activity_source_unreviewed
+    max_reports: null
+
+  nccgroup_activity:
+    adapter: nccgroup
+    base_url: https://www.nccgroup.com
+    start_urls:
+      - https://www.nccgroup.com/research/research-articles/?category=3594,10400,18146
+    discovery: http
+    content: http
+    source_family: activity_reports
+    report_class: multistep_attack
+    classification_basis: activity_source_unreviewed
+    max_reports: null
+
+  securelist_activity:
+    adapter: securelist
+    base_url: https://securelist.com
+    start_urls:
+      - https://securelist.com/all/
+    discovery: http
+    content: http
+    source_family: activity_reports
+    report_class: multistep_attack
+    classification_basis: activity_source_unreviewed
+    max_reports: null
+
+  spiderlabs_activity:
+    adapter: trustwave
+    base_url: https://www.levelblue.com
+    start_urls:
+      - https://www.levelblue.com/blogs/spiderlabs-blog
+    discovery: http
+    content: http
+    source_family: activity_reports
+    report_class: multistep_attack
+    classification_basis: activity_source_unreviewed
+    max_reports: null
+
+  recordedfuture_activity:
+    adapter: recordedfuture
+    base_url: https://www.recordedfuture.com
+    start_urls:
+      - https://www.recordedfuture.com/query-index.json
+    discovery: http
+    content: http
+    source_family: activity_reports
+    report_class: multistep_attack
+    classification_basis: activity_source_unreviewed
+    max_reports: null
+
+  welivesecurity_activity:
+    adapter: welivesecurity
+    base_url: https://www.welivesecurity.com
+    start_urls:
+      - https://www.welivesecurity.com/en/eset-research/
+    discovery: http
+    content: http
+    source_family: activity_reports
+    report_class: multistep_attack
+    classification_basis: activity_source_unreviewed
+    max_reports: null
+
+  seqrite_activity:
+    adapter: seqrite_activity
+    base_url: https://www.seqrite.com
+    start_urls:
+      - https://www.seqrite.com/blog/category/technical/
+    discovery: http
+    content: http
+    source_family: activity_reports
+    report_class: multistep_attack
+    # The Technical category mixes targeted-activity write-ups with commodity malware analyses.
+    classification_basis: activity_source_unreviewed
+    max_reports: null

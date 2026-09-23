@@ -1,0 +1,2 @@
+"""Shared content fetchers."""
+

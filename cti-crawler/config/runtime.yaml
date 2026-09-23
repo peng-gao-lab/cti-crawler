@@ -1,0 +1,53 @@
+output_root: output
+state_root: state
+
+# Per-source article URL limit; null means unlimited.
+default_max_reports: 300
+
+# HTML-to-PDF conversion is a separate stage after collection. Original HTML/PDF files are always kept.
+pdf:
+  # true: render PDFs when this run's collection finishes; false: skip conversion for now.
+  enabled: true
+  # true: after collection, fetch and cache the images of saved HTML for later offline conversion; article URLs are never revisited.
+  # With both false the PDF stage is disabled entirely. Resources for old HTML can be fetched separately later.
+  archive_resources: true
+  # After a successful conversion remove the intermediate copies; the shared cache is reclaimed once no unarchived task depends on it.
+  # false: keep the resources so PDFs can be regenerated offline later. Archive-only runs never clean up.
+  cleanup_after_success: true
+  # Total PDF render processes = workers; not multiplied by sites/downloads.
+  # Rendering is offline and starts after the collection thread pools exit.
+  workers: 8
+  resource_workers: 4
+  resource_host_concurrency: 2
+  resource_host_interval_seconds: 1
+  # Each preparation task fetches one image at a time. Total image requests
+  # <= min(resource_workers, active_target_hosts * resource_host_concurrency).
+  # Limits use the actual host, including redirects; same-host starts are spaced.
+  # HTTP 429/503 pause all requests to that host, respecting Retry-After.
+
+concurrency:
+  # Websites are grouped by base_url host (ignoring www.); sources on the same host run one after another.
+  sites: 3                 # website groups processed at the same time
+  downloads: 2             # Per-website HTTP article downloads; reduce pressure for publisher collection.
+  browser_downloads: 1     # browser article downloads per website
+  # With S = min(sites, website groups in this run), H = downloads and B = browser_downloads:
+  # HTTP download concurrency = min(sites, selected website groups) * downloads; at most 3 * 2 = 6.
+  # mixed article download limit = sites in the HTTP download stage * H + sites in the browser download stage * B
+  #                 <= S * max(H, B). Each site finishes discovery before downloading, so the stages do not overlap.
+  # These count article download tasks, not requests per second or browser sub-resource connections;
+  # sources such as MITRE fetch external references, so this is not a per-destination-host rate limit.
+
+logging:
+  level: INFO
+
+http:
+  timeout_seconds: 20
+  retries: 3  # Additional retries after the first request; at most 4 attempts.
+  user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/138.0 Safari/537.36
+
+browser:
+  headless: true
+  page_load_timeout_seconds: 60
+  wait_timeout_seconds: 20
+  max_navigation_steps: 1000
+  user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/138.0 Safari/537.36

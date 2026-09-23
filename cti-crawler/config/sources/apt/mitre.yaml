@@ -1,0 +1,43 @@
+sources:
+  mitre_attack_groups:
+    adapter: mitre_attack
+    base_url: https://attack.mitre.org
+    start_urls:
+      - https://attack.mitre.org/groups/
+    discovery: http
+    content: http
+    source_family: mitre_references
+    report_class: explicit_apt
+    classification_basis: mitre_group_reference
+    # Positive value overrides runtime.default_max_reports; null inherits it.
+    max_reports: null
+    # Reviewed originals that do not contain the intended report. Skipped before download.
+    excluded_urls:
+      https://assets.sentinelone.com/sentinellabs/evol-agrius: >-
+        PDF reader shell; the saved HTML does not contain the report text.
+      https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html: >-
+        Redirects to a Mandiant service page rather than the original report.
+      https://www.mandiant.com/resources/ukraine-crisis-cyber-threats: >-
+        Redirects to a Mandiant service page rather than the original report.
+      "https://www.catonetworks.com/blog/cato-ctrl-threat-research-analyzing-lamehug/": >-
+        Saved HTML contains no report body; excluded pending recovery of the actual report.
+      "https://www.symantec.com/security-center/writeup/2017-030708-4403-99": >-
+        Saved HTML contains no report body; excluded pending recovery of the actual report.
+      "https://insight-jp.nttsecurity.com/post/102hf3q/flagpro-the-new-malware-used-by-blacktech": >-
+        Saved HTML contains no report body; excluded pending recovery of the actual report.
+      "http://www.clearskysec.com/copykitten-jpost/": >-
+        Saved HTML contains no report body; excluded pending recovery of the actual report.
+      "https://www.symantec.com/security_response/writeup.jsp?docid=2012-051515-3909-99": >-
+        Saved HTML contains no report body; excluded pending recovery of the actual report.
+      "https://www.clearskysec.com/fox-kitten/": >-
+        Saved HTML contains no report body; excluded pending recovery of the actual report.
+      "https://www.broadcom.com/support/security-center/protection-bulletin/bookworm-malware-linked-to-fireant-aka-stately-tarurus-activity-observed-in-southeast-asia": >-
+        Saved HTML contains no report body; excluded pending recovery of the actual report.
+      "https://falconfeeds.io/blogs/the-digital-redoubt-irans-national-information-network-cyber-conflict": >-
+        Saved HTML contains no report body; excluded pending recovery of the actual report.
+      "https://falconfeeds.io/blogs/muddywater-in-the-iran-israel-cyber-war-from-powershell-scripts-to-rust-implants": >-
+        Saved HTML contains no report body; excluded pending recovery of the actual report.
+      "https://go.group-ib.com/report-silence-en?_gl=1*d1bh3a*_ga*MTIwMzM5Mzc5MS4xNjk4OTI5NzY4*_ga_QMES53K3Y2*MTcwNDcyMjU2OS40LjEuMTcwNDcyMzU1Mi41My4wLjA.": >-
+        Saved HTML contains no report body; excluded pending recovery of the actual report.
+      "https://cert.gov.ua/article/3761104": >-
+        Saved HTML contains no report body; excluded pending recovery of the actual report.

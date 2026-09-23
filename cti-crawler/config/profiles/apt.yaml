@@ -1,0 +1,78 @@
+name: apt
+data_namespace: apt
+
+source_files:
+  - apt/mitre.yaml
+  - apt/vendor_apt.yaml
+  - apt/activity_reports.yaml
+  - apt/activity_collections.yaml
+
+# Source families to collect; remove or comment out an entry to pause that family, [] disables all.
+# The effective selection is the intersection of these families and enabled_sources; --source can only narrow it further.
+enabled_source_families:
+  - mitre_references
+  - vendor_apt
+  - activity_reports
+
+enabled_sources:
+  - mitre_attack_groups
+  - securelist_apt
+  - eset_apt_reports
+  - thehackernews_apt
+  - trendmicro_apt
+  - unit42_apt
+  - bitdefender_apt
+  - sophos_pacific_rim
+  - talos_apt
+  - groupib_apt
+  - volexity_apt
+  - sentinellabs_apt
+  - asec_apt
+  - microsoft_apt
+  - sekoia_apt
+  - certua_apt
+  - securelist_activity
+  - welivesecurity_activity
+  - spiderlabs_activity
+  # Disabled: its tested entry mixes general product and CTI material with activity reports.
+  # - recordedfuture_activity
+  - zscaler_activity
+  - nccgroup_activity
+  - ciscoumbrella_activity
+  - seqrite_activity
+  - cybermonitor_history
+  - blackorbird_reports
+
+classification_file: classifications.json
+failure_file: failures.json
+
+# Source-level review guidance; does not change selection or judge individual articles.
+# Export all notices; selected_this_run identifies sources selected for this invocation.
+source_risk_file: source_risks.json
+source_risk_notices:
+  microsoft_apt:
+    assessed_at: "2026-09-11"
+    collection_scope: "Microsoft Security Blog's Threat actors category, covering articles published on or after January 1, 2021"
+    reason: >-
+      Of 10 articles read in full, 8 covered APT activity, 1 reviewed a ransomware incident,
+      and 1 was a detection guide. The section also includes trends, product material, and
+      actor naming updates. An earlier title review on September 10, 2026 estimated that
+      about 13-15% covered guidance or similar topics and about one third covered criminal
+      activity. Those estimates were based on titles; criminal activity with a multistep
+      attack chain may still qualify for this dataset.
+    evidence:
+      - https://www.microsoft.com/en-us/security/blog/threat-intelligence/threat-actors/
+      - https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/
+      - https://www.microsoft.com/en-us/security/blog/2023/04/18/microsoft-shifts-to-a-new-threat-actor-naming-taxonomy/
+      - https://www.microsoft.com/en-us/security/blog/2026/04/09/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/
+  sekoia_apt:
+    assessed_at: "2026-09-10"
+    collection_scope: "APT category at https://www.sekoia.com/category/apt"
+    reason: >-
+      Of 38 articles reviewed, 9 were country or sector overviews and 2 were clearly
+      unrelated to APT activity, about 29% combined. Alongside campaign reports, this
+      category includes articles about trends and actor attribution without details of
+      a specific attack.
+    evidence:
+      - https://www.sekoia.com/category/apt
+      - https://www.sekoia.com/blog/beyond-lazarus-organization-of-dprk-cyber-capabilities

@@ -1,0 +1,21 @@
+name: cti-crawler
+
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - python=3.11
+  - beautifulsoup4>=4.12,<5
+  - tinycss2>=1.4,<2
+  - pyyaml>=6,<7
+  - requests>=2.31,<3
+  - selenium>=4.20,<5
+  # Native PDF libraries and fonts are installed by Conda, without sudo.
+  - pango>=1.44
+  - fontconfig
+  - font-ttf-dejavu-sans-mono
+  - cryptography
+  - pip
+  - pip:
+      - -r requirements-pdf.txt
